@@ -1,4 +1,4 @@
-ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Gattung,Prätext,Kontext,Wikidata (Titel),GND (Titel),DraCor (ID)
+ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Gattung,Prätext,Kontext,Wikidata (Titel),GND (Titel),DraCor (Titel)
 1,001,1745,1745,+,[Anonymus],Der Zügel-lose,Ssp. in 5 A.,1a,bgl. Tr.,–,Päd.,,,
 2,002,1752,1752,+,H. A. v. Bassewitz,Der Kaufmann von London,bgl. Tr. in 5 H.,1b,bgl. Tr.,Lillo,–,,,
 3,003,1753/54,"[1753,1754]",+,J. J. Bode,Der Spieler,[bgl. 1766] Tr. in 5 A.,1b',bgl. Tr.,Moore,–,,,
@@ -11,7 +11,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 10,010,1757,1757,004,G. Fr. Klopstock,Der Tod Adams,Tr. in Prosa,5',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q22809001,https://d-nb.info/gnd/4440560-1,https://dracor.org/id/ger000013
 11,011,1759,1759,007,Margarete Klopstock,Der Tod Abels,Tr. in 3 H.,5',bibl. Dr.,–,Theol.,,,
 12,012,1757,1757,005,J. W. v. Brawe,Der Freigeist,Tr. in Prosa u. 5 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q51369297,https://d-nb.info/gnd/1043981861,https://dracor.org/id/ger000283
-13,013,1757/58,"[1757,1758]",006,Chr. G. Lieberkühn,Die Lissabonner,bgl. Tr. in 1 A.,4h,bgl. Tr.,–,–,,,
+13,013,1757/58,"[1757,1758]",006,Chr. G. Lieberkühn,Die Lissabonner,bgl. Tr. in 1 A.,4h,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q123238778,,
 14,014,1757/59,"[1757,1759]",008,K. Th. Breithaupt,Der Renegat,bgl. Tr. [in Versen] in 5 A.,1s,bgl. Tr.,–,Theol.,,,
 15,015,1760,1760,009,Chr. M. Wieland,Clementina von Poretta,Tr. in 5 A.,6,Lsp/Ssp.,Rich.,Theol.,,,
 16,016,1757/60,"[1757,1760]",–,G. E. Lessing,Der natürliche Sohn,Ssp. in 5 A.,6,Lsp/Ssp.,Diderot,–,,,
