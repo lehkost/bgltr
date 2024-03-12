@@ -4,7 +4,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 3,003,1753/54,"[1753,1754]",+,J. J. Bode,Der Spieler,[bgl. 1766] Tr. in 5 A.,1b',bgl. Tr.,Moore,–,,,
 4,004,1755,1755,+,J. H. Steffens,Beverly oder der Spieler,bgl. Tr. in 5 A.,1b',bgl. Tr.,Moore,–,,,
 5,005,1755,1755,001,G. E. Lessing,Miß Sara Sampson,bgl. Tr. in 5 A.,4h',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q1713147,https://d-nb.info/gnd/4079165-8,https://dracor.org/id/ger000087
-6,006,1753/55,"[1753,1755]",002,Chr. L. Martini,Rhynsolt und Sapphira,Pros. Tr. in 3 H.,1,hist. Dr.,Gellert,–,,https://d-nb.info/gnd/1272827542,
+6,006,1753/55,"[1753,1755]",002,Chr. L. Martini,Rhynsolt und Sapphira,Pros. Tr. in 3 H.,1,hist. Dr.,Gellert,–,http://www.wikidata.org/entity/Q124818355,https://d-nb.info/gnd/1272827542,
 7,007,1756,1756,003,J. G. B. Pfeil,Lucie Woodvil,bgl. Tr. in 5 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q55148569,https://d-nb.info/gnd/1199323160,https://dracor.org/id/ger000215
 8,008,1756,1756,003[a],[Anonymus],Das Mutter-Söhnchen,Pros. bgl. Tr. in 3 A.,1',bgl. Tr.,–,Päd.,,,
 9,009,1756,1756,–,[Anonymus],Der verschwenderische Kaufmann,Ssp. in 5 H.,3,Lsp/Ssp.,–,Theol.,,,
@@ -145,7 +145,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 144,139,1781,1781,123,[Anonymus],Das Kriegsrecht,Tragödie,5i,bgl. Tr.,Mercier,Jus,,,
 145,140,1781,1781,124,P.,Ardenhut und Mathilde,Tr. in 3 A.,1,bgl. Tr.,–,–,,,
 146,141,1781,1781,125,Chr. J. L. Steltzer,Franziska Montenegro,Tr. in 5 A.,2,hist. Dr.,[E],Theol.,,,
-147,142,1781,1781,126,K. F. D. Grohmann,Gioconda od. Weiberrache,Tr. in 3 A.,2,bgl. Tr.,[E],–,,,
+147,142,1781,1781,126,K. F. D. Grohmann,Gioconda od. Weiberrache,Tr. in 3 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q120490055,,https://dracor.org/id/ger000628
 148,143,1781,1781,127,[Anonymus],Lidie von Wendlant,bgl. Tr. in 5 A.,1,bgl. Tr.,–,Jus,,,
 149,144,1781,1781,129,K. F. G. v. Steinsberg,Miß Nelly Randolph,Tr. in 3 A.,1,bgl. Tr.,–,Theol.,,,
 150,145,1781,1781,130,K. F. G. v. Steinsberg,Der Patriotismus,Tr. in 5 A.,K2+5,her. Tr.,–,–,,,
@@ -236,7 +236,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 235,225,1794,1794,207,A. Fr. Schultze,Das Opfer d. Leidenschaft,Tr. in 3 A.,4,bgl. Tr.,–,Theol.,,,
 236,226,1794,1794,208,H. Meyer,Hartmuth Hager,Tr. in 5 A.,[K1+5],Rit. ssp.,–,Theol.,,,
 237,227,1794,1794,209,Chr. J. S. Contessa,Hedwig von Wolfsstein,Tr. in 3 A.,1,Rit. ssp.,–,Theol.,,,
-238,228,1794,1794,210,F. A. v. Kotzebue,Graf Benjowski.,Ssp. in 5 A.,6,her. Ssp.,–,–,,,
+238,228,1794,1794,210,F. A. v. Kotzebue,Graf Benjowski,Ssp. in 5 A.,6,her. Ssp.,–,–,http://www.wikidata.org/entity/Q1541382,,http://www.wikidata.org/entity/Q1541382
 239,229,1795,1795,211,J. Fr. E. Albrecht,Wilhelmine Relast,Tr. in 5 A.,1a,bgl. Tr.,Lillo,–,http://www.wikidata.org/entity/Q122537760,,
 240,230,1795,1795,213,[Anonymus],Guido Jaffieri,Tr. in 5 A.,5,hist. Dr.,Otway,–,,,
 241,231,1795,1795,214?,[Anonymus],Minna,Tr. in 5 A.,2,Rit. ssp.,–,–,,,
