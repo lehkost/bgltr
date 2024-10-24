@@ -7,13 +7,13 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 6,006,1753/55,"[1753,1755]",002,Chr. L. Martini,Rhynsolt und Sapphira,Pros. Tr. in 3 H.,1,hist. Dr.,Gellert,–,http://www.wikidata.org/entity/Q124818355,https://d-nb.info/gnd/1272827542,https://dracor.org/id/ger000690
 7,007,1756,1756,003,J. G. B. Pfeil,Lucie Woodvil,bgl. Tr. in 5 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q55148569,https://d-nb.info/gnd/1199323160,https://dracor.org/id/ger000215
 8,008,1756,1756,003[a],[Anonymus],Das Mutter-Söhnchen,Pros. bgl. Tr. in 3 A.,1',bgl. Tr.,–,Päd.,,,
-9,009,1756,1756,–,[Anonymus],Der verschwenderische Kaufmann,Ssp. in 5 H.,3,Lsp/Ssp.,–,Theol.,,,
+9,009,1756,1756,–,[Anonymus],Der verschwenderische Kaufmann,Ssp. in 5 H.,3,Lsp/Ssp.,–,Theol.,http://www.wikidata.org/entity/Q130634388,,
 10,010,1757,1757,004,G. Fr. Klopstock,Der Tod Adams,Tr. in Prosa,5',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q22809001,https://d-nb.info/gnd/4440560-1,https://dracor.org/id/ger000013
-11,011,1759,1759,007,Margarete Klopstock,Der Tod Abels,Tr. in 3 H.,5',bibl. Dr.,–,Theol.,,,
+11,011,1759,1759,007,Margarete Klopstock,Der Tod Abels,Tr. in 3 H.,5',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q130634521,,
 12,012,1757,1757,005,J. W. v. Brawe,Der Freigeist,Tr. in Prosa u. 5 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q51369297,https://d-nb.info/gnd/1043981861,https://dracor.org/id/ger000283
 13,013,1757/58,"[1757,1758]",006,Chr. G. Lieberkühn,Die Lissabonner,bgl. Tr. in 1 A.,4h,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q123238778,,
-14,014,1757/59,"[1757,1759]",008,K. Th. Breithaupt,Der Renegat,bgl. Tr. [in Versen] in 5 A.,1s,bgl. Tr.,–,Theol.,,,
-15,015,1760,1760,009,Chr. M. Wieland,Clementina von Poretta,Tr. in 5 A.,6,Lsp/Ssp.,Rich.,Theol.,,,
+14,014,1757/59,"[1757,1759]",008,K. Th. Breithaupt,Der Renegat,bgl. Tr. [in Versen] in 5 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q130634456,,
+15,015,1760,1760,009,Chr. M. Wieland,Clementina von Poretta,Tr. in 5 A.,6,Lsp/Ssp.,Rich.,Theol.,http://www.wikidata.org/entity/Q52927925,,https://dracor.org/id/ger000148
 16,016,1757/60,"[1757,1760]",–,G. E. Lessing,Der natürliche Sohn,Ssp. in 5 A.,6,Lsp/Ssp.,Diderot,–,,,
 17,017,1758/60,"[1758,1760]",–,G. E. Lessing,Der Hausvater,Ssp. in 5 A.,6,Lsp/Ssp.,Diderot,–,,,
 18,018,1761,1761,010,G. C. Pfeffel,Der Einsiedler,Tr. in Versen in 1 A.,6,Lsp/Ssp.,–,–,,,
