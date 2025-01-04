@@ -1,6 +1,6 @@
 ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Gattung,Prätext,Kontext,Wikidata (Titel),GND (Titel),DraCor (Titel)
-1,001,1745,1745,+,[Anonymus],Der Zügel-lose,Ssp. in 5 A.,1a,bgl. Tr.,–,Päd.,,,
-2,002,1752,1752,+,H. A. v. Bassewitz,Der Kaufmann von London,bgl. Tr. in 5 H.,1b,bgl. Tr.,Lillo,–,,,
+1,001,1745,1745,+,[Anonymus],Der Zügel-lose,Ssp. in 5 A.,1a,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q131631319,,
+2,002,1752,1752,+,H. A. v. Bassewitz,Der Kaufmann von London,bgl. Tr. in 5 H.,1b,bgl. Tr.,Lillo,–,http://www.wikidata.org/entity/Q131631441,,
 3,003,1753/54,"[1753,1754]",+,J. J. Bode,Der Spieler,[bgl. 1766] Tr. in 5 A.,1b',bgl. Tr.,Moore,–,,,
 4,004,1755,1755,+,J. H. Steffens,Beverly oder der Spieler,bgl. Tr. in 5 A.,1b',bgl. Tr.,Moore,–,,,
 5,005,1755,1755,001,G. E. Lessing,Miß Sara Sampson,bgl. Tr. in 5 A.,4h',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q1713147,https://d-nb.info/gnd/4079165-8,https://dracor.org/id/ger000087
@@ -102,7 +102,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 101,097,1777,1777,083,A. A. v. Crentzin,Der Hochzeitstag,Tr. in 5 A.,2a,bgl. Tr.,–,–,,,
 102,098,1777,1777,084,A. M. Sprickmann,Eulalia,Tr. in 5 A.,4h,bgl. Tr.,[E],–,,https://d-nb.info/gnd/7787370-1,
 103,099,1777,1777,085,[Anonymus],"Amalia, unglückl. durch ihre Stiefmutter",Tr. in 5 A.,2,bgl. Tr.,–,–,,,
-104,100,1777,1777,088,Willer,Werther,bgl. Tr. in Prosa und 3 A.,1a,bgl. Tr.,[W],–,,,
+104,100,1777,1777,088,Willer,Werther,bgl. Tr. in Prosa und 3 A.,1a,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q131631284,,
 105,101,1778,1778,086,J. Fr. Schink,Lina von Waller,Tr. in 3 A.,5i,bgl. Tr.,[W],Theol.,,,
 106,102,1778,1778,087,Chr. K. Schlegel,Düval und Charmille,bgl. Tr. in 5 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q118134246,https://d-nb.info/gnd/4685283-9,https://dracor.org/id/ger000613
 107,103,1778,1778,089,E. L. M. Rathlef,Albert Stucke,Tragödie in 5 A.,1b,bgl. Tr.,Ballade,–,,,
