@@ -65,7 +65,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 64,063,1775,1775,048,Fr. Th. Thilo,Euphemie,bgl. Tr. in 5 A.,1s,bgl. Tr.,–,Theol.,,,
 65,064,1775,1775,049,A. S. Goué/Wahr,Iwanette und Stormond,Tr. in 3 A.,2,bgl. Tr.,–,–,,,
 66,065,1775,1775,050,[Anonymus],Emilie Fermont,bgl. Tr. in 5 A.,1a,bgl. Tr.,–,–,,,
-67,066,1775,1775,051,J. G. Göntgen,Anna Bell,Tr. in 1 A.,2,bgl. Tr.,Arnauld,–,,,
+67,066,1775,1775,051,J. G. Göntgen,Anna Bell,Tr. in 1 A.,2,bgl. Tr.,Arnauld,–,http://www.wikidata.org/entity/Q131634169,,
 68,067,1775,1775,052,[Anonymus],Der Büchsenmacher,bgl. Tr. in 2 A.,4,bgl. Tr.,[E],Jus,,,
 69,068,1775,1775,053,Chr. G. Klemm,Eduard von Blumenberg,Tr. in 4 A.,1b',bgl. Tr.,–,–,,,
 70,069,1775,1775,055,H. L. Wagner,Die Reue nach der Tat,Ssp. in 6 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q55999240,,https://dracor.org/id/ger000264
@@ -82,8 +82,8 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 81,079,1776,1776,063,Fr. M. Klinger,Die neue Arria,Ssp. in 5 A.,4,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q56422542,https://d-nb.info/gnd/4327535-7,https://dracor.org/id/ger000103
 82,?,1776,1776,064,M. J. Graf v. Daun,Adelson und Salvini,Tr. in 5 H.,–,–,–,–,,,
 83,080,1776,1776,065,K. H. Seibt,Gabriele Montalto,Tr. in 1 A.,2,bgl. Tr.,–,–,,,
-84,081,1776,1776,066,O. F. v. Diericke,Eduard Montrose,Tr. in 5 A.,2,hist. Dr.,–,–,,,
-85,082,1776,1776,082,[Anonymus],Montrose und Surrey,Tr. in 5 A.,2,hist. Dr.,–,–,,,
+84,081,1776,1776,066,O. F. v. Diericke,Eduard Montrose,Tr. in 5 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q131633917,,
+85,082,1776,1776,082,[Anonymus],Montrose und Surrey,Tr. in 5 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q131633917,,
 86,083,1776,1776,067,L. Ph. Hahn,Graf Karl von Adelsberg,Tr. in 5 A.,1',bgl. Tr.,–,–,,https://d-nb.info/gnd/1199840882,
 87,084,1776,1776,068,B. Chr. d'Arien,Marie von Wahlburg,Tr. in 5 A.,5i,bgl. Tr.,[W],–,,,
 88,085,1776,1776,070,[Anonymus],Der Bürger,Tr. in 3 A.,2,bgl. Tr.,–,–,,,
