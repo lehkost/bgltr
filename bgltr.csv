@@ -144,7 +144,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 143,138,1780,1780,–,O. H. v. Gemmingen,Der deutsche Hausvater,Ssp. in 5 H.,6,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q52895487,https://d-nb.info/gnd/1215366388,https://dracor.org/id/ger000189
 144,139,1781,1781,123,[Anonymus],Das Kriegsrecht,Tragödie,5i,bgl. Tr.,Mercier,Jus,,,
 145,140,1781,1781,124,P.,Ardenhut und Mathilde,Tr. in 3 A.,1,bgl. Tr.,–,–,,,
-146,141,1781,1781,125,Chr. J. L. Steltzer,Franziska Montenegro,Tr. in 5 A.,2,hist. Dr.,[E],Theol.,http://www.wikidata.org/entity/Q131166948,,
+146,141,1781,1781,125,Chr. J. L. Steltzer,Franziska Montenegro,Tr. in 5 A.,2,hist. Dr.,[E],Theol.,http://www.wikidata.org/entity/Q131166948,,https://dracor.org/id/ger000716
 147,142,1781,1781,126,K. F. D. Grohmann,Gioconda od. Weiberrache,Tr. in 3 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q120490055,,https://dracor.org/id/ger000628
 148,143,1781,1781,127,[Anonymus],Lidie von Wendlant,bgl. Tr. in 5 A.,1,bgl. Tr.,–,Jus,,,
 149,144,1781,1781,129,K. F. G. v. Steinsberg,Miß Nelly Randolph,Tr. in 3 A.,1,bgl. Tr.,–,Theol.,,,
@@ -182,8 +182,8 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 181,175,1786,1786,156,F. G. Fruhwürth,Die Grafen Waldau,Tr. in 5 A.,1b',Rit. ssp.,–,–,,,
 182,176,1786,1786,157,C. Starke,Die traurige Hochzeitsfeier,Tr. in 3 A.,5i,bgl. Tr.,–,–,,,
 183,177,1786,1786,158,J. G. Dyk,Thomas Morus,Tr. in 5 A.,4,hist. Dr.,–,–,,,
-184,178,1787,1787,162,J. A. Waldvogel,Die falschen Banknoten,Tr. in 3 A.,1a,bgl. Tr.,[S],Päd.,,,
-185,179,1787,1787,163,W. A. v. Eding,Der Kornet,Tr. nach e. vaterländ. Sage in 5 A.,2,hist. Dr.,–,–,,,
+184,178,1787,1787,162,J. A. Waldvogel,Die falschen Banknoten,Tr. in 3 A.,1a,bgl. Tr.,[S],Päd.,http://www.wikidata.org/entity/Q132589577,,https://dracor.org/id/ger000718
+185,179,1787,1787,163,W. A. v. Eding,Der Kornet,Tr. nach e. vaterländ. Sage in 5 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q132710133,,
 186,180,1787,1787,164,E. Schikaneder,Der Grandprofos,Tr. in 4 A.,4,bgl. Tr.,–,Jus,,https://d-nb.info/gnd/7680479-3,
 187,181,1787,1787,165,J. N. Perchtold,Amalie von Kronbach,Tr. in 4 A.,1,bgl. Tr.,–,–,,,
 188,182,1787,1787,166,Fr. Spach,Karl von Schönbach,Tr. in 4 A.,2,bgl. Tr.,–,–,,,
@@ -191,10 +191,10 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 190,184,1787,1787,169,J. G. Schwarz,Carmelia Ronardo,Tr. in 5 A.,2,bgl. Tr.,[E],–,,,
 191,185,1787,1787,–,H. J. Wüst,Der gleichgültige Offizier,bgl. Tr. in 3 A.,2a,bgl. Tr.,–,–,,,
 192,186,1787,1787,171,G. C. Claudius,Die Grafen Guiscardi,Tr. in 5 A.,1,bgl. Tr.,[K+L],–,,,
-193,187,1787,1787,172,Fr. Spach,Verbrechen aus Vaterliebe,Tr. in 4 A.,2,bgl. Tr.,[K+L],Jus,,,
+193,187,1787,1787,172,Fr. Spach,Verbrechen aus Vaterliebe,Tr. in 4 A.,2,bgl. Tr.,[K+L],Jus,http://www.wikidata.org/entity/Q132710958,,
 194,188,1788,1788,168,E. Thon,Adelheit von Rastenberg,Tr. in 5 A.,2,Rit. ssp.,–,–,,,
 195,189,1788,1788,170,J. Maas,Cuenna,Tr. in 4 A.,1a,hist. Dr.,(R),–,,,
-196,190,1789,1789,173,J. Korompay,Sandiny von Waldburg,Tr. in 5 A.,1',bgl. Tr.,–,–,,,
+196,190,1789,1789,173,J. Korompay,Sandiny von Waldburg,Tr. in 5 A.,1',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q132710591,,
 197,191,1789,1789,174,[Chr. Fr. Bretzner],Der Lüderliche,Trag. Gemälde in 5 A.,1b',bgl. Tr.,–,Päd.,,,
 198,192,1789,1789,175,[Anonymus],Die Ketzer,Tr. in 3 A.,–,–,Bahrdt,Theol.,,,
 199,193,1789,1789,176,[Anonymus],Fanny od. d. Verlobte d. Fürsten,Tr. in 5 A.,4,her. Tr.,–,–,,,
