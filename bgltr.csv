@@ -55,19 +55,19 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 54,053,1774,1774,037,J. M. R. Lenz,Der Hofmeister,Komödie,6,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q21213113,https://d-nb.info/gnd/4074154-0,https://dracor.org/id/ger000338
 55,054,1774,1774,039,J. C. Wezel,Der Graf von Wickham,Tr. in 5 A.,2,bgl. Tr.,–,–,,,
 56,055,1774,1774,040,T. Ph. v. Gebler,Adelhaid von Siegmar,Tr. in 5 A.,2a,bgl. Tr.,–,–,,,
-57,056,1774,1774,041,L. Zehnmark,Salvini und Adelson,Tr. in 3 A.,1b,bgl. Tr.,Arnauld,–,,,
+57,056,1774,1774,041,L. Zehnmark,Salvini und Adelson,Tr. in 3 A.,1b,bgl. Tr.,Arnauld,–,http://www.wikidata.org/entity/Q133250750,,
 58,057,1774,1774,054,A. A. v. Crentzin,"Derbi, od. Treue u. Freundschaft",Tr. in 5 A.,2,hist. Dr.,–,–,,,
 59,058,1775,1775,043,Chr. E. Buschmann,Der Graf von der Weide,Tr. in 5 A.,2,bgl. Tr.,–,–,,,
 60,059,1775,1775,044,J. Chr. Unzer,Diego und Leonore,Tr. in 4 A.,2,hist. Dr.,[E],Theol.,,,
-61,060,1775,1775,045,G. Fr. W. Grossmann,Wilhelmine von Blondheim,Tr. in 3 A.,2,bgl. Tr.,[E],Jus,,,
+61,060,1775,1775,045,G. Fr. W. Grossmann,Wilhelmine von Blondheim,Tr. in 3 A.,2,bgl. Tr.,[E],Jus,http://www.wikidata.org/entity/Q133250770,,
 62,061,1775,1775,046,Fr. M. Klinger,Das leidende Weib,Tr. in 5 A.,5i,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q95579878,https://d-nb.info/gnd/1219177105,https://dracor.org/id/ger000497
 63,062,1775,1775,047,E. L. M. Rathlef,Die Mohrinn zu Hamburg,Tragödie in 5 A.,5,bgl. Tr.,–,Jus,,,
 64,063,1775,1775,048,Fr. Th. Thilo,Euphemie,bgl. Tr. in 5 A.,1s,bgl. Tr.,–,Theol.,,,
 65,064,1775,1775,049,A. S. Goué/Wahr,Iwanette und Stormond,Tr. in 3 A.,2,bgl. Tr.,–,–,,,
 66,065,1775,1775,050,[Anonymus],Emilie Fermont,bgl. Tr. in 5 A.,1a,bgl. Tr.,–,–,,,
-67,066,1775,1775,051,J. G. Göntgen,Anna Bell,Tr. in 1 A.,2,bgl. Tr.,Arnauld,–,http://www.wikidata.org/entity/Q131634169,,
-68,067,1775,1775,052,[Anonymus],Der Büchsenmacher,bgl. Tr. in 2 A.,4,bgl. Tr.,[E],Jus,,,
-69,068,1775,1775,053,Chr. G. Klemm,Eduard von Blumenberg,Tr. in 4 A.,1b',bgl. Tr.,–,–,,,
+67,066,1775,1775,051,J. G. Göntgen,Anna Bell,Tr. in 1 A.,2,bgl. Tr.,Arnauld,–,http://www.wikidata.org/entity/Q131634169,,https://dracor.org/id/ger000719
+68,067,1775,1775,052,[Anonymus],Der Büchsenmacher,bgl. Tr. in 2 A.,4,bgl. Tr.,[E],Jus,http://www.wikidata.org/entity/Q29044623,,
+69,068,1775,1775,053,Chr. G. Klemm,Eduard von Blumenberg,Tr. in 4 A.,1b',bgl. Tr.,–,–,http://www.wikidata.org/entity/http://www.wikidata.org/entity/Q29044623,,
 70,069,1775,1775,055,H. L. Wagner,Die Reue nach der Tat,Ssp. in 6 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q55999240,,https://dracor.org/id/ger000264
 71,070,1775,1775,056,I. Hübner,Der Lohn der Freundschaft,Trag. Ssp. in 5 A.,1,bgl. Tr.,–,Theol.,,,
 72,071,1775,1775,059,A. S. Goue,Masuren oder Der junge Werther,Tr. in 3 H.,5,bgl. Tr.,[W],–,,,
