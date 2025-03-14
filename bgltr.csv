@@ -1,7 +1,7 @@
 ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Gattung,Prätext,Kontext,Wikidata (Titel),GND (Titel),DraCor (Titel)
 1,001,1745,1745,+,[Anonymus],Der Zügel-lose,Ssp. in 5 A.,1a,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q131631319,,
 2,002,1752,1752,+,H. A. v. Bassewitz,Der Kaufmann von London,bgl. Tr. in 5 H.,1b,bgl. Tr.,Lillo,–,http://www.wikidata.org/entity/Q131631441,,
-3,003,1753/54,"[1753,1754]",+,J. J. Bode,Der Spieler,[bgl. 1766] Tr. in 5 A.,1b',bgl. Tr.,Moore,–,,,
+3,003,1753/54,"[1753,1754]",+,J. J. Bode,Der Spieler,[bgl. 1766] Tr. in 5 A.,1b',bgl. Tr.,Moore,–,http://www.wikidata.org/entity/Q133278738,,
 4,004,1755,1755,+,J. H. Steffens,Beverly oder der Spieler,bgl. Tr. in 5 A.,1b',bgl. Tr.,Moore,–,,,
 5,005,1755,1755,001,G. E. Lessing,Miß Sara Sampson,bgl. Tr. in 5 A.,4h',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q1713147,https://d-nb.info/gnd/4079165-8,https://dracor.org/id/ger000087
 6,006,1753/55,"[1753,1755]",002,Chr. L. Martini,Rhynsolt und Sapphira,Pros. Tr. in 3 H.,1,hist. Dr.,Gellert,–,http://www.wikidata.org/entity/Q124818355,https://d-nb.info/gnd/1272827542,https://dracor.org/id/ger000690
@@ -100,7 +100,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 99,?,1777,1777,079,Chr. B. Schücking,[Königin] Elisabeth,,–,–,–,–,,,
 100,096,1777/78,"[1777,1778]",081,Fr. K. A. v. Trützschler,Liebe und Tod,Tr. in 5 A.,4h,bgl. Tr.,[W],–,,,
 101,097,1777,1777,083,A. A. v. Crentzin,Der Hochzeitstag,Tr. in 5 A.,2a,bgl. Tr.,–,–,,,
-102,098,1777,1777,084,A. M. Sprickmann,Eulalia,Tr. in 5 A.,4h,bgl. Tr.,[E],–,,https://d-nb.info/gnd/7787370-1,
+102,098,1777,1777,084,A. M. Sprickmann,Eulalia,Tr. in 5 A.,4h,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q133278512,https://d-nb.info/gnd/7787370-1,
 103,099,1777,1777,085,[Anonymus],"Amalia, unglückl. durch ihre Stiefmutter",Tr. in 5 A.,2,bgl. Tr.,–,–,,,
 104,100,1777,1777,088,Willer,Werther,bgl. Tr. in Prosa und 3 A.,1a,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q131631284,,
 105,101,1778,1778,086,J. Fr. Schink,Lina von Waller,Tr. in 3 A.,5i,bgl. Tr.,[W],Theol.,,,
@@ -184,8 +184,8 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 183,177,1786,1786,158,J. G. Dyk,Thomas Morus,Tr. in 5 A.,4,hist. Dr.,–,–,,,
 184,178,1787,1787,162,J. A. Waldvogel,Die falschen Banknoten,Tr. in 3 A.,1a,bgl. Tr.,[S],Päd.,http://www.wikidata.org/entity/Q132589577,,https://dracor.org/id/ger000718
 185,179,1787,1787,163,W. A. v. Eding,Der Kornet,Tr. nach e. vaterländ. Sage in 5 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q132710133,,
-186,180,1787,1787,164,E. Schikaneder,Der Grandprofos,Tr. in 4 A.,4,bgl. Tr.,–,Jus,,https://d-nb.info/gnd/7680479-3,
-187,181,1787,1787,165,J. N. Perchtold,Amalie von Kronbach,Tr. in 4 A.,1,bgl. Tr.,–,–,,,
+186,180,1787,1787,164,E. Schikaneder,Der Grandprofos,Tr. in 4 A.,4,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q133278570,https://d-nb.info/gnd/7680479-3,
+187,181,1787,1787,165,J. N. Perchtold,Amalie von Kronbach,Tr. in 4 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133278638,,
 188,182,1787,1787,166,Fr. Spach,Karl von Schönbach,Tr. in 4 A.,2,bgl. Tr.,–,–,,,
 189,183,1787,1787,167,[Anonymus],Graf Gulli und seine Söhne,Tr. in 3 A.,1,bgl. Tr.,–,–,,,
 190,184,1787,1787,169,J. G. Schwarz,Carmelia Ronardo,Tr. in 5 A.,2,bgl. Tr.,[E],–,,,
