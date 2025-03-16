@@ -2,11 +2,11 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 1,001,1745,1745,+,[Anonymus],Der Zügel-lose,Ssp. in 5 A.,1a,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q131631319,,
 2,002,1752,1752,+,H. A. v. Bassewitz,Der Kaufmann von London,bgl. Tr. in 5 H.,1b,bgl. Tr.,Lillo,–,http://www.wikidata.org/entity/Q131631441,,
 3,003,1753/54,"[1753,1754]",+,J. J. Bode,Der Spieler,[bgl. 1766] Tr. in 5 A.,1b',bgl. Tr.,Moore,–,http://www.wikidata.org/entity/Q133278738,,
-4,004,1755,1755,+,J. H. Steffens,Beverly oder der Spieler,bgl. Tr. in 5 A.,1b',bgl. Tr.,Moore,–,,,
+4,004,1755,1755,+,J. H. Steffens,Beverly oder der Spieler,bgl. Tr. in 5 A.,1b',bgl. Tr.,Moore,–,http://www.wikidata.org/entity/Q133282401,,
 5,005,1755,1755,001,G. E. Lessing,Miß Sara Sampson,bgl. Tr. in 5 A.,4h',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q1713147,https://d-nb.info/gnd/4079165-8,https://dracor.org/id/ger000087
 6,006,1753/55,"[1753,1755]",002,Chr. L. Martini,Rhynsolt und Sapphira,Pros. Tr. in 3 H.,1,hist. Dr.,Gellert,–,http://www.wikidata.org/entity/Q124818355,https://d-nb.info/gnd/1272827542,https://dracor.org/id/ger000690
 7,007,1756,1756,003,J. G. B. Pfeil,Lucie Woodvil,bgl. Tr. in 5 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q55148569,https://d-nb.info/gnd/1199323160,https://dracor.org/id/ger000215
-8,008,1756,1756,003[a],[Anonymus],Das Mutter-Söhnchen,Pros. bgl. Tr. in 3 A.,1',bgl. Tr.,–,Päd.,,,
+8,008,1756,1756,003[a],[Anonymus],Das Mutter-Söhnchen,Pros. bgl. Tr. in 3 A.,1',bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q133288015,,
 9,009,1756,1756,–,[Anonymus],Der verschwenderische Kaufmann,Ssp. in 5 H.,3,Lsp/Ssp.,–,Theol.,http://www.wikidata.org/entity/Q130634388,,
 10,010,1757,1757,004,G. Fr. Klopstock,Der Tod Adams,Tr. in Prosa,5',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q22809001,https://d-nb.info/gnd/4440560-1,https://dracor.org/id/ger000013
 11,011,1759,1759,007,Margarete Klopstock,Der Tod Abels,Tr. in 3 H.,5',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q130634521,,
@@ -14,10 +14,10 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 13,013,1757/58,"[1757,1758]",006,Chr. G. Lieberkühn,Die Lissabonner,bgl. Tr. in 1 A.,4h,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q123238778,,
 14,014,1757/59,"[1757,1759]",008,K. Th. Breithaupt,Der Renegat,bgl. Tr. [in Versen] in 5 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q130634456,,
 15,015,1760,1760,009,Chr. M. Wieland,Clementina von Poretta,Tr. in 5 A.,6,Lsp/Ssp.,Rich.,Theol.,http://www.wikidata.org/entity/Q52927925,,https://dracor.org/id/ger000148
-16,016,1757/60,"[1757,1760]",–,G. E. Lessing,Der natürliche Sohn,Ssp. in 5 A.,6,Lsp/Ssp.,Diderot,–,,,
-17,017,1758/60,"[1758,1760]",–,G. E. Lessing,Der Hausvater,Ssp. in 5 A.,6,Lsp/Ssp.,Diderot,–,,,
+16,016,1757/60,"[1757,1760]",–,G. E. Lessing,Der natürliche Sohn,Ssp. in 5 A.,6,Lsp/Ssp.,Diderot,–,http://www.wikidata.org/entity/Q133288057,,
+17,017,1758/60,"[1758,1760]",–,G. E. Lessing,Der Hausvater,Ssp. in 5 A.,6,Lsp/Ssp.,Diderot,–,http://www.wikidata.org/entity/Q133288984,,
 18,018,1761,1761,010,G. C. Pfeffel,Der Einsiedler,Tr. in Versen in 1 A.,6,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q133270066,,
-19,019,1763,1763,011,J. J. Dusch,Der Bankerot,bgl. Tr. in 5 H.,3,Lsp/Ssp.,–,–,,,
+19,019,1763,1763,011,J. J. Dusch,Der Bankerot,bgl. Tr. in 5 H.,3,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q133289015,,
 20,020,1764,1764,+,G. C. Pfeffel,Serena,bgl. Tr. in Prose und 1 A.,1,bgl. Tr.,Landois,–,http://www.wikidata.org/entity/Q125134130,,https://dracor.org/id/ger000692
 21,021,1764,1764,014,O. N. Baumgarten,Carl von Drontheim,Tr. in 5 A.,1s,bgl. Tr.,–,Theol.,,,
 22,022,1765,1765,012,J. H. Steffens,Clarissa,bgl. Tr. in 3 A.,1s,bgl. Tr.,Rich.,Theol.,,,
@@ -115,10 +115,10 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 114,110,1778,1778,096,B. D. A. Cremeri,Amaliens Verlöbniß,Tr. in 2 A.,2,bgl. Tr.,–,–,,,
 115,111,1778,1778,097,J. A. Weiß,Rose Die Nonne wider ihren Willen,Tr. in 5 A.,2b,bgl. Tr.,[E],Theol.,http://www.wikidata.org/entity/Q125398385,,
 116,112,1778,1778,098,[Anonymus],Die verkannte Unschuld,Tr. in 5 A.,1a,bgl. Tr.,–,–,,,
-117,?,1778,1778,099,A. P. Pollinger,Antonio del Bassiano,Tr. in 5 A.,–,–,–,,,,
+117,?,1778,1778,099,A. P. Pollinger,Antonio del Bassiano,Tr. in 5 A.,–,–,–,http://www.wikidata.org/entity/Q133289064,,,
 118,113,1778,1778,–,[Anonymus],Jenny,bgl. Tr. in 5 A.,2,bgl. Tr.,[E],–,,,
 119,114,1779,1779,100,[Anonymus],Charlotte e. Opfer d. Aberglaubens,Tr. in 3 A.,4h,bgl. Tr.,–,Theol.,,,
-120,115,1779,1779,101,J. A. Weiß,"Von Helm, Der Freygeist ein Heuchler",Tr. in 5 A.,1,bgl. Tr.,–,Theol.,,,
+120,115,1779,1779,101,J. A. Weiß,"Von Helm, Der Freygeist ein Heuchler",Tr. in 5 A.,1,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133289075,,
 121,116,1779,1779,102,S. G. Bürde,"Hochzeitstag, od. das Ärgste kommt zuletzt",Tr. in 5 A.,5,bgl. Tr.,[W],–,,,
 122,117,1779,1779,103,E. L. M. Rathlef,Das Schloß Wartenfels,Tragödie in 5 A.,1a,bgl. Tr.,–,Theol.,,,
 123,118,1779,1779,104,Wagner,Der deutsche Student,Tr. in 5 A.,1b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q112943724,,https://dracor.org/id/ger000588
