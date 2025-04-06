@@ -29,7 +29,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 28,028,1768,1768,018,J. H. Faber,Inkle und Yariko,Tr. in Versen in 5 A.,1b',bgl. Tr.,Gellert,Theol.,,,
 29,029,1757/68,"[1757,1768]",019[a],J. H. Steffens,"Cleveland, oder: Die redliche Untreue",Tr. in 5 A.,1,hist. Dr.,–,–,,,
 30,029,1757/68,"[1757,1768]",019[b],J. H. Steffens,"Cleveland, oder: Der irrende Philosoph",Ssp. in 5 A.,1,hist. Dr.,–,–,,,
-31,030,1768,1768,–,[Anonymus],Die versäumte Erziehung,Tr. in Prosa in 5 A.,1b',bgl. Tr.,–,Päd.,,,
+31,030,1768,1768,–,[Anonymus],Die versäumte Erziehung,Tr. in Prosa in 5 A.,1b',bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q133820209,,
 32,031,1769,1769,+,J. A. E. v. Ghelen,Die Menschlichkeit,bgl. Tr. in 5 A.,6i,Lsp/Ssp.,Boisset,Jus,http://www.wikidata.org/entity/Q133445214,,
 33,032,1769,1769,020,[Anonymus],Die unglückl. Belohnung,Tr. in 5 A.,4,her. Tr.,–,–,,,
 34,033,1769,1769,021,E. Fr. H. Falcke,Braitwell,bgl. Tr. in 1 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133270100,,
@@ -53,7 +53,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 52,051,1774,1774,035,[Anonymus],Die Braut im Portrait,Tr. in 5 A.,2b,bgl. Tr.,–,–,,,
 53,052,1774,1774,036,J. W. v. Goethe,Clavigo,Tr. in 5 A.,4h'',bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q466752,https://d-nb.info/gnd/4280631-8,https://dracor.org/id/ger000157
 54,053,1774,1774,037,J. M. R. Lenz,Der Hofmeister,Komödie,6,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q21213113,https://d-nb.info/gnd/4074154-0,https://dracor.org/id/ger000338
-55,054,1774,1774,039,J. C. Wezel,Der Graf von Wickham,Tr. in 5 A.,2,bgl. Tr.,–,–,,,
+55,054,1774,1774,039,J. C. Wezel,Der Graf von Wickham,Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133820019,https://d-nb.info/gnd/1358439958,
 56,055,1774,1774,040,T. Ph. v. Gebler,Adelhaid von Siegmar,Tr. in 5 A.,2a,bgl. Tr.,–,–,,,
 57,056,1774,1774,041,L. Zehnmark,Salvini und Adelson,Tr. in 3 A.,1b,bgl. Tr.,Arnauld,–,http://www.wikidata.org/entity/Q133250750,,
 58,057,1774,1774,054,A. A. v. Crentzin,"Derbi, od. Treue u. Freundschaft",Tr. in 5 A.,2,hist. Dr.,–,–,,,
@@ -119,10 +119,10 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 118,113,1778,1778,–,[Anonymus],Jenny,bgl. Tr. in 5 A.,2,bgl. Tr.,[E],–,,,
 119,114,1779,1779,100,[Anonymus],Charlotte e. Opfer d. Aberglaubens,Tr. in 3 A.,4h,bgl. Tr.,–,Theol.,,,
 120,115,1779,1779,101,J. A. Weiß,"Von Helm, Der Freygeist ein Heuchler",Tr. in 5 A.,1,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133289075,,
-121,116,1779,1779,102,S. G. Bürde,"Hochzeitstag, od. das Ärgste kommt zuletzt",Tr. in 5 A.,5,bgl. Tr.,[W],–,,,
-122,117,1779,1779,103,E. L. M. Rathlef,Das Schloß Wartenfels,Tragödie in 5 A.,1a,bgl. Tr.,–,Theol.,,,
+121,116,1779,1779,102,S. G. Bürde,"Hochzeitstag, od. das Ärgste kommt zuletzt",Tr. in 5 A.,5,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q133826085,,
+122,117,1779,1779,103,E. L. M. Rathlef,Das Schloß Wartenfels,Tragödie in 5 A.,1a,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133826111,,
 123,118,1779,1779,104,Wagner,Der deutsche Student,Tr. in 5 A.,1b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q112943724,,https://dracor.org/id/ger000588
-124,119,1779,1779,105,J. I. Zimmermann,Der verlohrne Sohn,Tr. in 5 A.,6',bibl. Dr.,–,Theol.,,,
+124,119,1779,1779,105,J. I. Zimmermann,Der verlohrne Sohn,Tr. in 5 A.,6',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q133826120,,
 125,120,1779,1779,106,Fr. S. L. v. Eckhardt,Die Schwäger,Tr. in 5 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q131674889,,
 126,121,1779,1779,107,L. Th. Kosegarten,Darmond und Allwina,Tr. in 5 A.,2,Rit. ssp.,[W],–,http://www.wikidata.org/entity/Q131674932,,
 127,122,1779,1779,108,M. Scholz,Richard und Karl,Tr. in 5 A.,2b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133309902,,
@@ -137,13 +137,13 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 136,131,1780,1780,118,A. Th. Linhart,Miß Jenny Love,Tr. in 5 A.,2,bgl. Tr.,–,–,,,
 137,132,1780,1780,119,[Anonymus],Das unschuldige Opfer,Tr. in 4 A.,2,bgl. Tr.,–,Theol.,,,
 138,133,1780,1780,120,J. A. v. Wielandt,Der Graf von Murrbach,Tr. in 5 A.,1b',bgl. Tr.,Arnauld,Jus,,,
-139,134,1780/81,"[1780,1781]",121,J. Ph. Wollstädt,"Cassio, od., d. Folgen d. Eifersucht",Tr. in 5 A.,2,Rit. ssp.,Shakesp.,–,,,
+139,134,1780/81,"[1780,1781]",121,J. Ph. Wollstädt,"Cassio, od., d. Folgen d. Eifersucht",Tr. in 5 A.,2,Rit. ssp.,Shakesp.,–,http://www.wikidata.org/entity/Q133826142,,
 140,135,1780,1780,122,F. Prinner,Das Ideal d. unglückl. Liebe od. Klerdon,Tr. in 5 A.,2,bgl. Tr.,–,–,,,
-141,136,1780,1780,131,[Anonymus],Richmond Falben,bgl. Tr. in 5 A.,1',bgl. Tr.,–,–,,,
+141,136,1780,1780,131,[Anonymus],Richmond Falben,bgl. Tr. in 5 A.,1',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133826157,,
 142,137,1780,1780,–,[Anonymus],Don Vincenzo,bgl. Tr. in 5 A.,1a,bgl. Tr.,[E],–,,,
 143,138,1780,1780,–,O. H. v. Gemmingen,Der deutsche Hausvater,Ssp. in 5 H.,6,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q52895487,https://d-nb.info/gnd/1215366388,https://dracor.org/id/ger000189
 144,139,1781,1781,123,[Anonymus],Das Kriegsrecht,Tragödie,5i,bgl. Tr.,Mercier,Jus,,,
-145,140,1781,1781,124,P.,Ardenhut und Mathilde,Tr. in 3 A.,1,bgl. Tr.,–,–,,,
+145,140,1781,1781,124,P.,Ardenhut und Mathilde,Tr. in 3 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133826174,,
 146,141,1781,1781,125,Chr. J. L. Steltzer,Franziska Montenegro,Tr. in 5 A.,2,hist. Dr.,[E],Theol.,http://www.wikidata.org/entity/Q131166948,,https://dracor.org/id/ger000716
 147,142,1781,1781,126,K. F. D. Grohmann,Gioconda od. Weiberrache,Tr. in 3 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q120490055,,https://dracor.org/id/ger000628
 148,143,1781,1781,127,[Anonymus],Lidie von Wendlant,bgl. Tr. in 5 A.,1,bgl. Tr.,–,Jus,,,
@@ -154,7 +154,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 153,148,1781,1781,–,W. A. Iffland,Albert von Thurneisen,bgl. Tr. in 4 A.,5i,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q130271055,,
 154,149,1782,1782,134,L. Erdmann,Der Hochverrath,Tr. in 3 A.,1,bgl. Tr.,–,–,,,
 155,150,1782,1782,135,L. Erdmann,Der Mißverstand,Tr. in 3 A.,1a,bgl. Tr.,–,–,,,
-156,151,1782,1782,136,J. M. Babo,"Oda, die Frau von zween Männern",Tr. in 5 A.,1,Rit. ssp.,–,–,,,
+156,151,1782,1782,136,J. M. Babo,"Oda, die Frau von zween Männern",Tr. in 5 A.,1,Rit. ssp.,–,–,http://www.wikidata.org/entity/Q133826191,,
 157,152,1782,1782,137,L. Erdmann,Sainville,Tr. in 5 A.,1a,bgl. Tr.,–,–,,,
 158,153,1782,1782,138,L. Erdmann,Wind und Wetter,Tr. in 2 A.,1,her. Tr.,–,–,,,
 159,154,1783,1783,139,Fr. v. Eckart,Die vergiftete Traube,Tr. in 1 A.,1b,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q122749478,,https://dracor.org/id/ger000656
