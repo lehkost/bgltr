@@ -11,7 +11,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 10,010,1757,1757,004,G. Fr. Klopstock,Der Tod Adams,Tr. in Prosa,5',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q22809001,https://d-nb.info/gnd/4440560-1,https://dracor.org/id/ger000013
 11,011,1759,1759,007,Margarete Klopstock,Der Tod Abels,Tr. in 3 H.,5',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q130634521,,https://dracor.org/id/ger000722
 12,012,1757,1757,005,J. W. v. Brawe,Der Freigeist,Tr. in Prosa u. 5 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q51369297,https://d-nb.info/gnd/1043981861,https://dracor.org/id/ger000283
-13,013,1757/58,"[1757,1758]",006,Chr. G. Lieberkühn,Die Lissabonner,bgl. Tr. in 1 A.,4h,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q123238778,,
+13,013,1757/58,"[1757,1758]",006,Chr. G. Lieberkühn,Die Lissabonner,bgl. Tr. in 1 A.,4h,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q123238778,,https://dracor.org/id/ger000730
 14,014,1757/59,"[1757,1759]",008,K. Th. Breithaupt,Der Renegat,bgl. Tr. [in Versen] in 5 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q130634456,,
 15,015,1760,1760,009,Chr. M. Wieland,Clementina von Poretta,Tr. in 5 A.,6,Lsp/Ssp.,Rich.,Theol.,http://www.wikidata.org/entity/Q52927925,,https://dracor.org/id/ger000148
 16,016,1757/60,"[1757,1760]",–,G. E. Lessing,Der natürliche Sohn,Ssp. in 5 A.,6,Lsp/Ssp.,Diderot,–,http://www.wikidata.org/entity/Q133288057,,
@@ -127,7 +127,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 126,121,1779,1779,107,L. Th. Kosegarten,Darmond und Allwina,Tr. in 5 A.,2,Rit. ssp.,[W],–,http://www.wikidata.org/entity/Q131674932,,
 127,122,1779,1779,108,M. Scholz,Richard und Karl,Tr. in 5 A.,2b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133309902,,
 128,123,1779,1779,109,B. Chr. d'Arien,Natur und Liebe im Streit,Tr. in 5 A.,6,her. Ssp.,–,–,http://www.wikidata.org/entity/Q134445112,,
-129,124,1779,1779,110,F. A. Schraembl,Edwin und Emma,Ssp. in 5 A.,1,bgl. Tr.,–,–,,,
+129,124,1779,1779,110,F. A. Schraembl,Edwin und Emma,Ssp. in 5 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q134529782,,
 130,125,1779/80,"[1779,1780]",114,J. Chr. Brandes,Ottilie,Tr. in 5 A.,2,bgl. Tr.,[S],–,,,
 131,126,1780,1780,112,Chr. F. Weiße,Jean Calas,Hist. Ssp. in 5 A.,4,hist. Dr.,–,–,,,
 132,127,1780,1780,113,J. G. B. Büschel,Theodor und Julie,Tr. in 5 A.,1,bgl. Tr.,–,Päd.,,,
@@ -136,7 +136,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 135,130,1780,1780,117,L. C. H. Bischof,Der Judenfeind,Tr. in 1 A.,2,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133270380,,
 136,131,1780,1780,118,A. Th. Linhart,Miß Jenny Love,Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q20521867,,
 137,132,1780,1780,119,[Anonymus],Das unschuldige Opfer,Tr. in 4 A.,2,bgl. Tr.,–,Theol.,,,
-138,133,1780,1780,120,J. A. v. Wielandt,Der Graf von Murrbach,Tr. in 5 A.,1b',bgl. Tr.,Arnauld,Jus,,,
+138,133,1780,1780,120,J. A. v. Wielandt,Der Graf von Murrbach,Tr. in 5 A.,1b',bgl. Tr.,Arnauld,Jus,http://www.wikidata.org/entity/Q134446367,,
 139,134,1780/81,"[1780,1781]",121,J. Ph. Wollstädt,"Cassio, od., d. Folgen d. Eifersucht",Tr. in 5 A.,2,Rit. ssp.,Shakesp.,–,http://www.wikidata.org/entity/Q133826142,,
 140,135,1780,1780,122,F. Prinner,Das Ideal d. unglückl. Liebe od. Klerdon,Tr. in 5 A.,2,bgl. Tr.,–,–,,,
 141,136,1780,1780,131,[Anonymus],Richmond Falben,bgl. Tr. in 5 A.,1',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133826157,,
@@ -161,8 +161,8 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 160,155,1783/89,"[1783,1789]",140,[Anonymus],Rudolph von Mohelli,Tr. in 3 A.,1b,bgl. Tr.,–,–,,,
 161,156,1783/84,"[1783,1784]",141,Fr. Schiller,Kabale und Liebe,bgl. Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q263150,https://d-nb.info/gnd/4099337-1,https://dracor.org/id/ger000096
 162,157,1783,1783,146,K. F. Zimdar,"Freundschaft, Liebe, Eifersucht",Tr. in 5 A.,2,bgl. Tr.,"[E, W]",–,,,
-163,158,1784,1784,142,[Anonymus],Afterwerther,Ssp. in 5 A.,6,Lsp/Ssp.,[W],–,,,
-164,159,1784,1784,143,[Anonymus],Carl Otterbek,Tr. in 5 A.,1b,bgl. Tr.,–,Päd.,,,
+163,158,1784,1784,142,[Anonymus],Afterwerther,Ssp. in 5 A.,6,Lsp/Ssp.,[W],–,http://www.wikidata.org/entity/Q134446439,,
+164,159,1784,1784,143,[Anonymus],Carl Otterbek,Tr. in 5 A.,1b,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q134446566,,
 165,160,1784,1784,144,J. G. Dyk,Leichtsinn u. Verführung,bgl. Tr. in 5 A.,1b,bgl. Tr.,–,Päd.,,,
 166,161,1784/87,"[1784,1787]",161,J. G. Dyk,Ferdinand Pernau,Tr. in 5 A.,1b,bgl. Tr.,–,Päd.,,,
 167,162,1784,1784,145,A. W. Iffland,Verbrechen aus Ehrsucht,ernsth. Fam.gemälde in 5 A.,3,Lsp/Ssp.,–,Jus,http://www.wikidata.org/entity/Q51395085,https://d-nb.info/gnd/1217605371,https://dracor.org/id/ger000235
