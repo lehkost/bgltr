@@ -20,7 +20,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 19,019,1763,1763,011,J. J. Dusch,Der Bankerot,bgl. Tr. in 5 H.,3,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q133289015,,
 20,020,1764,1764,+,G. C. Pfeffel,Serena,bgl. Tr. in Prose und 1 A.,1,bgl. Tr.,Landois,–,http://www.wikidata.org/entity/Q125134130,,https://dracor.org/id/ger000692
 21,021,1764,1764,014,O. N. Baumgarten,Carl von Drontheim,Tr. in 5 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133839009,,
-22,022,1765,1765,012,J. H. Steffens,Clarissa,bgl. Tr. in 3 A.,1s,bgl. Tr.,Rich.,Theol.,,,
+22,022,1765,1765,012,J. H. Steffens,Clarissa,bgl. Tr. in 3 A.,1s,bgl. Tr.,Rich.,Theol.,http://www.wikidata.org/entity/Q134983064,,
 23,023,1765,1765,013,J. Chr. Brandes,Miß Fanny,[bgl.] Tr. in Prosa,2b,bgl. Tr.,Prévot,–,http://www.wikidata.org/entity/Q133839041,,
 24,024,1766,1766,015,J. Chr. Lossius,Amalia,Tr. in 5 A.,2,bgl. Tr.,[S],Theol.,,,
 25,025,1767,1767,016,H. P. Sturz,Julie,[bgl.] Tr. in 5 A.,4h,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q52883292,,https://dracor.org/id/ger000066
@@ -255,4 +255,4 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 254,241,1798,1798,226,K. Wallishauser,"Manuel, der falsche Freund",Tr. in 5 A.,1,hist. Dr.,–,–,http://www.wikidata.org/entity/Q130368504,,
 255,?,1798,1798,228,K. Wehrlich,Seltamiro,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q130368487,,
 256,?,1798,1798,229,S. Oehringen,Die unglückliche Vorstellung,Tr. in 3 H.,–,–,–,–,http://www.wikidata.org/entity/Q133377852,,
-257,242,1799,1799,–,A. W. Iffland,Das Gewissen,bgl. Tr. in 5 A.,1b',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133374450,,
+257,242,1799,1799,–,A. W. Iffland,Das Gewissen,bgl. Tr. in 5 A.,1b',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133374450,,https://dracor.org/id/ger000732
