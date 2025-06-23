@@ -22,7 +22,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 21,021,1764,1764,014,O. N. Baumgarten,Carl von Drontheim,Tr. in 5 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133839009,,
 22,022,1765,1765,012,J. H. Steffens,Clarissa,bgl. Tr. in 3 A.,1s,bgl. Tr.,Rich.,Theol.,http://www.wikidata.org/entity/Q134983064,,
 23,023,1765,1765,013,J. Chr. Brandes,Miß Fanny,[bgl.] Tr. in Prosa,2b,bgl. Tr.,Prévot,–,http://www.wikidata.org/entity/Q133839041,,
-24,024,1766,1766,015,J. Chr. Lossius,Amalia,Tr. in 5 A.,2,bgl. Tr.,[S],Theol.,,,
+24,024,1766,1766,015,J. Chr. Lossius,Amalia,Tr. in 5 A.,2,bgl. Tr.,[S],Theol.,http://www.wikidata.org/entity/Q135013756,,
 25,025,1767,1767,016,H. P. Sturz,Julie,[bgl.] Tr. in 5 A.,4h,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q52883292,,https://dracor.org/id/ger000066
 26,026,1768,1768,+,Chr. F. Weiße,Romeo und Julie,bgl. Tr. in 5 A.,4h,bgl. Tr.,Shakesp.,–,http://www.wikidata.org/entity/Q133838971,,
 27,027,1768,1768,017,Nüscheler,Inckle und Yaricko,Pros. Tr. in 3 H.,1,bgl. Tr.,Gellert,–,http://www.wikidata.org/entity/Q133843297,,
@@ -135,7 +135,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 134,129,1780,1780,116,J. Prothke,Das leidende Mädchen,Tr. in 1 A.,4,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133270260,,
 135,130,1780,1780,117,L. C. H. Bischof,Der Judenfeind,Tr. in 1 A.,2,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133270380,,
 136,131,1780,1780,118,A. Th. Linhart,Miß Jenny Love,Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q20521867,,
-137,132,1780,1780,119,[Anonymus],Das unschuldige Opfer,Tr. in 4 A.,2,bgl. Tr.,–,Theol.,,,
+137,132,1780,1780,119,[Anonymus],Das unschuldige Opfer,Tr. in 4 A.,2,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q135013771,,
 138,133,1780,1780,120,J. A. v. Wielandt,Der Graf von Murrbach,Tr. in 5 A.,1b',bgl. Tr.,Arnauld,Jus,http://www.wikidata.org/entity/Q134446367,,
 139,134,1780/81,"[1780,1781]",121,J. Ph. Wollstädt,"Cassio, od., d. Folgen d. Eifersucht",Tr. in 5 A.,2,Rit. ssp.,Shakesp.,–,http://www.wikidata.org/entity/Q133826142,,
 140,135,1780,1780,122,F. Prinner,Das Ideal d. unglückl. Liebe od. Klerdon,Tr. in 5 A.,2,bgl. Tr.,–,–,,,
