@@ -46,8 +46,8 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 45,044,1772,1772,031,T. Ph. v. Gebler,Die Osmonde,Tr. in 5 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133843000,,
 46,045,1772,1772,032,[Anonymus],Fanny,trag. Nachspiel,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135044309,,
 47,046,1772/80,"[1772,1780]",111,Chr. F. Weiße,Die Flucht,bgl. Tr. in 5 A.,4h,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133838953,,
-48,047,1773,1773,033,H. C. H. v. Trautzschen,Frh. von Bardenfels,bgl. Tr. in 3 A.,1,bgl. Tr.,–,–,,,
-49,048,1773,1773,038,J. Chr. Brandes,Olivie,Tr. in 5 A.,1,bgl. Tr.,–,–,,,
+48,047,1773,1773,033,H. C. H. v. Trautzschen,Frh. von Bardenfels,bgl. Tr. in 3 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135433144,,
+49,048,1773,1773,038,J. Chr. Brandes,Olivie,Tr. in 5 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135433179,,
 50,049,1773,1773,042,J. J. Bodmer,Fußfall vor den Brüdern,Tr. in 3 A.,6',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q133397500,,
 51,050,1774,1774,034,[Anonymus],Der Jesuit,Tr. in 6 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135084628,,
 52,051,1774,1774,035,[Anonymus],Die Braut im Portrait,Tr. in 5 A.,2b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135084721,,
@@ -78,7 +78,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 77,075,1776,1776,057,J. W. v. Goethe,Stella,Ssp. für Liebende in 5 A.,5i,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q2342072,https://d-nb.info/gnd/4099204-4,https://dracor.org/id/ger000126
 78,076,1776,1776,058,J. A. Leisewitz,Julius von Tarent,Tr. in 5 A.,2,hist. Dr.,[E],–,http://www.wikidata.org/entity/Q1713126,https://d-nb.info/gnd/4114391-7,https://dracor.org/id/ger000050
 79,077,1776,1776,060/61,André/Cremeri,Die Leiden des Jungen Werthers,Tr. in 3 A.,5i,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q134706903,,https://dracor.org/id/ger000731
-80,078,1776,1776,062,J. J. Bodmer,Der Tod des ersten Menschen,rel. Dr.,5',bibl. Dr.,–,Theol.,,,
+80,078,1776,1776,062,J. J. Bodmer,Der Tod des ersten Menschen,rel. Dr.,5',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q135433210,,
 81,079,1776,1776,063,Fr. M. Klinger,Die neue Arria,Ssp. in 5 A.,4,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q56422542,https://d-nb.info/gnd/4327535-7,https://dracor.org/id/ger000103
 82,?,1776,1776,064,M. J. Graf v. Daun,Adelson und Salvini,Tr. in 5 H.,–,–,–,–,http://www.wikidata.org/entity/Q133502950,,
 83,080,1776,1776,065,K. H. Seibt,Gabriele Montalto,Tr. in 1 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133270197,,
@@ -221,10 +221,10 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 220,211,1791,1791,195,Fr. W. Ziegler,Mathilde Gräfin von Gießbach,Tr. in 5 A.,1b',Rit. ssp.,–,–,,,
 221,212,1791,1791,196,[Anonymus],Ada von Draiwing,Tr. in 5 A.,2,Rit. ssp.,–,–,http://www.wikidata.org/entity/Q131804029,,
 222,213,1791,1791,199,K. I. Geiger,Laster ist oft Tugend,Tr. in 3 A.,2,bgl. Tr.,–,Jus,,,
-223,214,1791/92,"[1791,1792]",193,J. L. B.,Grimaldo und Laura,Tr. in 5 A.,2,bgl. Tr.,–,–,,,
+223,214,1791/92,"[1791,1792]",193,J. L. B.,Grimaldo und Laura,Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135433249,,
 224,215,1792,1792,197,Chr. A. Vulpius,Graf Benjowsky,Tr. in 5 A.,5,her. Tr.,–,–,http://www.wikidata.org/entity/Q133503011,,
 225,216,1792,1792,198,K. F. Schelcher,Capello und Turii,Ssp. in 4 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133502996,,
-226,?,1792,1792,200,J. G. Essich,Bianca Capello,Tr.,–,–,–,–,,,
+226,?,1792,1792,200,J. G. Essich,Bianca Capello,Tr.,–,–,–,–,http://www.wikidata.org/entity/Q135433233,,
 227,217,1792,1792,201,F. A. v. Bromme,Cuenna und Vivonne,Tr. in 5 A.,5,hist. Dr.,(R),–,http://www.wikidata.org/entity/Q133503029,,
 228,218,1792,1792,202,C. Frh. v. Reitzenstein,Graf Königsmark,Tr. in 5 A.,2,bgl. Tr.,"[E, K+L]",–,http://www.wikidata.org/entity/Q133374174,,
 229,219,1792,1792,203,J. N. Komareck,Marie von Montalban,Tr. m. Chören in 5 A.,1,hist. Dr.,Plümicke,Theol.,http://www.wikidata.org/entity/Q133374066,,
