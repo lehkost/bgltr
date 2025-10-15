@@ -6,6 +6,8 @@ If available, we add Wikidata, GND and DraCor identifiers for works. G. E. Lessi
 - https://d-nb.info/gnd/4079164-6
 - https://dracor.org/id/ger000088
 
+We also include a link to a scan of the first edition, when available online. In some cases, we had to link to a later edition.
+
 # Team
 - Jonas Rohe ([@Fera333](https://github.com/fera333))
 - Viktor J. Illmer ([@v-ji](https://github.com/v-ji))

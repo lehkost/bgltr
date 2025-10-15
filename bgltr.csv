@@ -1,258 +1,258 @@
-ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Gattung,Prätext,Kontext,Wikidata (Titel),GND (Titel),DraCor (Titel)
-1,001,1745,1745,+,[Anonymus],Der Zügel-lose,Ssp. in 5 A.,1a,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q131631319,,
-2,002,1752,1752,+,H. A. v. Bassewitz,Der Kaufmann von London,bgl. Tr. in 5 H.,1b,bgl. Tr.,Lillo,–,http://www.wikidata.org/entity/Q131631441,,
-3,003,1753/54,"[1753,1754]",+,J. J. Bode,Der Spieler,[bgl. 1766] Tr. in 5 A.,1b',bgl. Tr.,Moore,–,http://www.wikidata.org/entity/Q133278738,,
-4,004,1755,1755,+,J. H. Steffens,Beverly oder der Spieler,bgl. Tr. in 5 A.,1b',bgl. Tr.,Moore,–,http://www.wikidata.org/entity/Q133282401,,
-5,005,1755,1755,001,G. E. Lessing,Miß Sara Sampson,bgl. Tr. in 5 A.,4h',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q1713147,https://d-nb.info/gnd/4079165-8,https://dracor.org/id/ger000087
-6,006,1753/55,"[1753,1755]",002,Chr. L. Martini,Rhynsolt und Sapphira,Pros. Tr. in 3 H.,1,hist. Dr.,Gellert,–,http://www.wikidata.org/entity/Q124818355,https://d-nb.info/gnd/1272827542,https://dracor.org/id/ger000690
-7,007,1756,1756,003,J. G. B. Pfeil,Lucie Woodvil,bgl. Tr. in 5 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q55148569,https://d-nb.info/gnd/1199323160,https://dracor.org/id/ger000215
-8,008,1756,1756,003[a],[Anonymus],Das Mutter-Söhnchen,Pros. bgl. Tr. in 3 A.,1',bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q133288015,,
-9,009,1756,1756,–,[Anonymus],Der verschwenderische Kaufmann,Ssp. in 5 H.,3,Lsp/Ssp.,–,Theol.,http://www.wikidata.org/entity/Q130634388,,
-10,010,1757,1757,004,G. Fr. Klopstock,Der Tod Adams,Tr. in Prosa,5',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q22809001,https://d-nb.info/gnd/4440560-1,https://dracor.org/id/ger000013
-11,011,1759,1759,007,Margarete Klopstock,Der Tod Abels,Tr. in 3 H.,5',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q130634521,,https://dracor.org/id/ger000722
-12,012,1757,1757,005,J. W. v. Brawe,Der Freigeist,Tr. in Prosa u. 5 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q51369297,https://d-nb.info/gnd/1043981861,https://dracor.org/id/ger000283
-13,013,1757/58,"[1757,1758]",006,Chr. G. Lieberkühn,Die Lissabonner,bgl. Tr. in 1 A.,4h,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q123238778,,https://dracor.org/id/ger000730
-14,014,1757/59,"[1757,1759]",008,K. Th. Breithaupt,Der Renegat,bgl. Tr. [in Versen] in 5 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q130634456,,
-15,015,1760,1760,009,Chr. M. Wieland,Clementina von Poretta,Tr. in 5 A.,6,Lsp/Ssp.,Rich.,Theol.,http://www.wikidata.org/entity/Q52927925,,https://dracor.org/id/ger000148
-16,016,1757/60,"[1757,1760]",–,G. E. Lessing,Der natürliche Sohn,Ssp. in 5 A.,6,Lsp/Ssp.,Diderot,–,http://www.wikidata.org/entity/Q133288057,,
-17,017,1758/60,"[1758,1760]",–,G. E. Lessing,Der Hausvater,Ssp. in 5 A.,6,Lsp/Ssp.,Diderot,–,http://www.wikidata.org/entity/Q133288984,,
-18,018,1761,1761,010,G. C. Pfeffel,Der Einsiedler,Tr. in Versen in 1 A.,6,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q133270066,,
-19,019,1763,1763,011,J. J. Dusch,Der Bankerot,bgl. Tr. in 5 H.,3,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q133289015,,
-20,020,1764,1764,+,G. C. Pfeffel,Serena,bgl. Tr. in Prose und 1 A.,1,bgl. Tr.,Landois,–,http://www.wikidata.org/entity/Q125134130,,https://dracor.org/id/ger000692
-21,021,1764,1764,014,O. N. Baumgarten,Carl von Drontheim,Tr. in 5 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133839009,,
-22,022,1765,1765,012,J. H. Steffens,Clarissa,bgl. Tr. in 3 A.,1s,bgl. Tr.,Rich.,Theol.,http://www.wikidata.org/entity/Q134983064,,
-23,023,1765,1765,013,J. Chr. Brandes,Miß Fanny,[bgl.] Tr. in Prosa,2b,bgl. Tr.,Prévot,–,http://www.wikidata.org/entity/Q133839041,,
-24,024,1766,1766,015,J. Chr. Lossius,Amalia,Tr. in 5 A.,2,bgl. Tr.,[S],Theol.,http://www.wikidata.org/entity/Q135013756,,
-25,025,1767,1767,016,H. P. Sturz,Julie,[bgl.] Tr. in 5 A.,4h,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q52883292,,https://dracor.org/id/ger000066
-26,026,1768,1768,+,Chr. F. Weiße,Romeo und Julie,bgl. Tr. in 5 A.,4h,bgl. Tr.,Shakesp.,–,http://www.wikidata.org/entity/Q133838971,,
-27,027,1768,1768,017,Nüscheler,Inckle und Yaricko,Pros. Tr. in 3 H.,1,bgl. Tr.,Gellert,–,http://www.wikidata.org/entity/Q133843297,,
-28,028,1768,1768,018,J. H. Faber,Inkle und Yariko,Tr. in Versen in 5 A.,1b',bgl. Tr.,Gellert,Theol.,http://www.wikidata.org/entity/Q135042272,,
-29,029,1757/68,"[1757,1768]",019[a],J. H. Steffens,"Cleveland, oder: Die redliche Untreue",Tr. in 5 A.,1,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135914356,,
-30,029,1757/68,"[1757,1768]",019[b],J. H. Steffens,"Cleveland, oder: Der irrende Philosoph",Ssp. in 5 A.,1,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135914374,,
-31,030,1768,1768,–,[Anonymus],Die versäumte Erziehung,Tr. in Prosa in 5 A.,1b',bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q133820209,,
-32,031,1769,1769,+,J. A. E. v. Ghelen,Die Menschlichkeit,bgl. Tr. in 5 A.,6i,Lsp/Ssp.,Boisset,Jus,http://www.wikidata.org/entity/Q133445214,,
-33,032,1769,1769,020,[Anonymus],Die unglückl. Belohnung,Tr. in 5 A.,4,her. Tr.,–,–,http://www.wikidata.org/entity/Q135043905,,
-34,033,1769,1769,021,E. Fr. H. Falcke,Braitwell,bgl. Tr. in 1 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133270100,,
-35,034,1770,1770,022,J. G. Chr. Nonne,Don Pedro und Anton,bgl. Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q131389515,,
-36,035,1770,1770,025,J. B. Pelzel,Yariko,Tr. in 1 H.,4,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133270117,,https://dracor.org/id/ger000742
-37,036,1770,1770,027,B. Pfeufer,Vendelino,Tr. in 3 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133843242,,
-38,037,1771,1771,+,Chr. H. Schmid,Die Wayse,bgl. Tr. in 5 A.,5i,bgl. Tr.,Otway,–,http://www.wikidata.org/entity/Q133839067,,
-39,038,1771,1771,023,T. Ph. v. Gebler,Klementine od. das Testament,Dr. in 5 A.,1,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q133445263,,
-40,039,1771,1771,026,[Anonymus],Mis Jenny,trag. Nachspiel,4h',bgl. Tr.,Spect.,–,http://www.wikidata.org/entity/Q133843168,,
-41,040,1771,1771,028,J. I. Zimmermann,Dithmar,Tr. in 5 A.,5',hist. Dr.,–,–,http://www.wikidata.org/entity/Q133445224,,
-42,041,1771/72,"[1771,1772]",024,B. Pfeufer,Carl und Leonore,Tr. in 3 H.,2b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133445238,,
-43,042,1772,1772,029,G. E. Lessing,Emilia Galotti,Tr. in 5 A.,4h'',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q782653,https://d-nb.info/gnd/4079164-6,https://dracor.org/id/ger000088
-44,043,1772,1772,030,E. Th. J. Brückner,Emilie Blontville,bgl. Tr. in 5 H.,1,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q133842991,,
-45,044,1772,1772,031,T. Ph. v. Gebler,Die Osmonde,Tr. in 5 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133843000,,
-46,045,1772,1772,032,[Anonymus],Fanny,trag. Nachspiel,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135044309,,
-47,046,1772/80,"[1772,1780]",111,Chr. F. Weiße,Die Flucht,bgl. Tr. in 5 A.,4h,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133838953,,
-48,047,1773,1773,033,H. C. H. v. Trautzschen,Frh. von Bardenfels,bgl. Tr. in 3 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135433144,,
-49,048,1773,1773,038,J. Chr. Brandes,Olivie,Tr. in 5 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135433179,,
-50,049,1773,1773,042,J. J. Bodmer,Fußfall vor den Brüdern,Tr. in 3 A.,6',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q133397500,,
-51,050,1774,1774,034,[Anonymus],Der Jesuit,Tr. in 6 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135084628,,
-52,051,1774,1774,035,[Anonymus],Die Braut im Portrait,Tr. in 5 A.,2b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135084721,,
-53,052,1774,1774,036,J. W. v. Goethe,Clavigo,Tr. in 5 A.,4h'',bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q466752,https://d-nb.info/gnd/4280631-8,https://dracor.org/id/ger000157
-54,053,1774,1774,037,J. M. R. Lenz,Der Hofmeister,Komödie,6,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q21213113,https://d-nb.info/gnd/4074154-0,https://dracor.org/id/ger000338
-55,054,1774,1774,039,J. C. Wezel,Der Graf von Wickham,Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133820019,https://d-nb.info/gnd/1358439958,https://dracor.org/id/ger000726
-56,055,1774,1774,040,T. Ph. v. Gebler,Adelhaid von Siegmar,Tr. in 5 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133838925,,
-57,056,1774,1774,041,L. Zehnmark,Salvini und Adelson,Tr. in 3 A.,1b,bgl. Tr.,Arnauld,–,http://www.wikidata.org/entity/Q133250750,,
-58,057,1774,1774,054,A. A. v. Crentzin,"Derbi, od. Treue u. Freundschaft",Tr. in 5 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q133838901,,
-59,058,1775,1775,043,Chr. E. Buschmann,Der Graf von der Weide,Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133419624,,
-60,059,1775,1775,044,J. Chr. Unzer,Diego und Leonore,Tr. in 4 A.,2,hist. Dr.,[E],Theol.,http://www.wikidata.org/entity/Q133838695,,
-61,060,1775,1775,045,G. Fr. W. Grossmann,Wilhelmine von Blondheim,Tr. in 3 A.,2,bgl. Tr.,[E],Jus,http://www.wikidata.org/entity/Q133250770,,
-62,061,1775,1775,046,Fr. M. Klinger,Das leidende Weib,Tr. in 5 A.,5i,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q95579878,https://d-nb.info/gnd/1219177105,https://dracor.org/id/ger000497
-63,062,1775,1775,047,E. L. M. Rathlef,Die Mohrinn zu Hamburg,Tragödie in 5 A.,5,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q133330660,,
-64,063,1775,1775,048,Fr. Th. Thilo,Euphemie,bgl. Tr. in 5 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133413663,,
-65,064,1775,1775,049,A. S. Goué/Wahr,Iwanette und Stormond,Tr. in 3 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133413200,,https://dracor.org/id/ger000740
-66,065,1775,1775,050,[Anonymus],Emilie Fermont,bgl. Tr. in 5 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133412781,,
-67,066,1775,1775,051,J. G. Göntgen,Anna Bell,Tr. in 1 A.,2,bgl. Tr.,Arnauld,–,http://www.wikidata.org/entity/Q131634169,,https://dracor.org/id/ger000719
-68,067,1775,1775,052,[Anonymus],Der Büchsenmacher,bgl. Tr. in 2 A.,4,bgl. Tr.,[E],Jus,http://www.wikidata.org/entity/Q29044623,,
-69,068,1775,1775,053,Chr. G. Klemm,Eduard von Blumenberg,Tr. in 4 A.,1b',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133251365,,
-70,069,1775,1775,055,H. L. Wagner,Die Reue nach der Tat,Ssp. in 6 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q55999240,,https://dracor.org/id/ger000264
-71,070,1775,1775,056,I. Hübner,Der Lohn der Freundschaft,Trag. Ssp. in 5 A.,1,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133410361,,
-72,071,1775,1775,059,A. S. Goué,Masuren oder Der junge Werther,Tr. in 3 H.,5,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q133411195,,https://dracor.org/id/ger000739
-73,072,1775,1775,069,H. F. Möller,Ernest und Gabriele,Tr. in 5 A.,2,bgl. Tr.,(R),–,http://www.wikidata.org/entity/Q133411589,,
-74,073,1775,1775,–,[Anonymus],Irene,bgl. Tr. in 5 A.,1b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133412357,,
-75,?,1775,1775,–,[Anonymus],Die Freundschaft,bgl. Tr. in 3 A.,–,–,–,–,http://www.wikidata.org/entity/Q133838721,,
-76,074,1776,1776,+,Fr. W. Gotter,Mariane,bgl. Tr. in 3 H.,2,bgl. Tr.,LaHarpe,Theol.,http://www.wikidata.org/entity/Q131764259,https://d-nb.info/gnd/129444378X,
-77,075,1776,1776,057,J. W. v. Goethe,Stella,Ssp. für Liebende in 5 A.,5i,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q2342072,https://d-nb.info/gnd/4099204-4,https://dracor.org/id/ger000126
-78,076,1776,1776,058,J. A. Leisewitz,Julius von Tarent,Tr. in 5 A.,2,hist. Dr.,[E],–,http://www.wikidata.org/entity/Q1713126,https://d-nb.info/gnd/4114391-7,https://dracor.org/id/ger000050
-79,077,1776,1776,060/61,André/Cremeri,Die Leiden des Jungen Werthers,Tr. in 3 A.,5i,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q134706903,,https://dracor.org/id/ger000731
-80,078,1776,1776,062,J. J. Bodmer,Der Tod des ersten Menschen,rel. Dr.,5',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q135433210,,
-81,079,1776,1776,063,Fr. M. Klinger,Die neue Arria,Ssp. in 5 A.,4,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q56422542,https://d-nb.info/gnd/4327535-7,https://dracor.org/id/ger000103
-82,?,1776,1776,064,M. J. Graf v. Daun,Adelson und Salvini,Tr. in 5 H.,–,–,–,–,http://www.wikidata.org/entity/Q133502950,,
-83,080,1776,1776,065,K. H. Seibt,Gabriele Montalto,Tr. in 1 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133270197,,
-84,081,1776,1776,066,O. F. v. Diericke,Eduard Montrose,Tr. in 5 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q131633917,,
-85,082,1776,1776,082,[Anonymus],Montrose und Surrey,Tr. in 5 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q131633917,,
-86,083,1776,1776,067,L. Ph. Hahn,Graf Karl von Adelsberg,Tr. in 5 A.,1',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133310391,https://d-nb.info/gnd/1199840882,
-87,084,1776,1776,068,B. Chr. d'Arien,Marie von Wahlburg,Tr. in 5 A.,5i,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q133871040,,
-88,085,1776,1776,070,[Anonymus],Der Bürger,Tr. in 3 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133843367,,
-89,086,1776,1776,071,J. Fr. E. Albrecht,Der unnatürliche Vater,Tr. in 3 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133843355,,
-90,087,1776,1776,072,Fr. M. Klinger,Die Zwillinge,Tr. in 5 A.,2,hist. Dr.,–,Theol.,http://www.wikidata.org/entity/Q1217801,https://d-nb.info/gnd/4114230-5,https://dracor.org/id/ger000190
-91,088,1776,1776,073,H. L. Wagner,Die Kindermörderin,Tr. in 6 A.,5i,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q1213864,https://d-nb.info/gnd/4215993-3,https://dracor.org/id/ger000396
-92,089,1776,1776,074,J. Chr. Riebe,Die Gräfin von Wollberg,Tr. in 5 A.,2,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q133422929,,
-93,090,1776,1776,075,H. F. Möller,Der Graf von Walltron,Tr. in 5 A.,6i,Lsp/Ssp.,–,Jus,http://www.wikidata.org/entity/Q114711538,,https://dracor.org/id/ger000593
-94,091,1776,1776,080,Fr. M. Klinger,Sturm und Drang,Ssp. in 5 A.,6,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q1768388,https://d-nb.info/gnd/4568296-3,https://dracor.org/id/ger000053
-95,092,1776/1803,"[1776,1803]",–,J. J. Engel,Eid und Pflicht,bgl. Tr. in 5 A.,6i,Lsp/Ssp.,–,Jus,http://www.wikidata.org/entity/Q52894275,,https://dracor.org/id/ger000262
-96,093,1777,1777,076,J. M. R. Lenz,Der Engländer,Dram. Phantasie,5,bgl. Tr.,"[E, W]",Theol.,http://www.wikidata.org/entity/Q1193157,https://d-nb.info/gnd/4310175-6,https://dracor.org/id/ger000423
-97,094,1777,1777,077,J. Fr. Schink,Gianetta Montaldi,Tr. in 5 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q133310453,,
-98,095,1777,1777,078,Engelbrecht/Förster,Caroline von Rothenburg,Tr. in 5 A.,1,bgl. Tr.,(R),–,http://www.wikidata.org/entity/Q135084338,,
+ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Gattung,Prätext,Kontext,Wikidata (Titel),GND (Titel),DraCor (Titel),Scan Erstausgabe
+1,001,1745,1745,+,[Anonymus],Der Zügel-lose,Ssp. in 5 A.,1a,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q131631319,,,https://books.google.com/books?id=rnIZAAAAYAAJ&pg=PP7
+2,002,1752,1752,+,H. A. v. Bassewitz,Der Kaufmann von London,bgl. Tr. in 5 H.,1b,bgl. Tr.,Lillo,–,http://www.wikidata.org/entity/Q131631441,,,https://doi.org/10.25673/94831
+3,003,1753/54,"[1753,1754]",+,J. J. Bode,Der Spieler,[bgl. 1766] Tr. in 5 A.,1b',bgl. Tr.,Moore,–,http://www.wikidata.org/entity/Q133278738,,,https://books.google.com/books?id=9XX99tdeXbEC&pg=PA129
+4,004,1755,1755,+,J. H. Steffens,Beverly oder der Spieler,bgl. Tr. in 5 A.,1b',bgl. Tr.,Moore,–,http://www.wikidata.org/entity/Q133282401,,,https://doi.org/10.25673/94823
+5,005,1755,1755,001,G. E. Lessing,Miß Sara Sampson,bgl. Tr. in 5 A.,4h',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q1713147,https://d-nb.info/gnd/4079165-8,https://dracor.org/id/ger000087,https://books.google.com/books?id=vJtjAAAAcAAJ&pg=PA1
+6,006,1753/55,"[1753,1755]",002,Chr. L. Martini,Rhynsolt und Sapphira,Pros. Tr. in 3 H.,1,hist. Dr.,Gellert,–,http://www.wikidata.org/entity/Q124818355,https://d-nb.info/gnd/1272827542,https://dracor.org/id/ger000690,https://purl.uni-rostock.de/rosdok/ppn1758960167
+7,007,1756,1756,003,J. G. B. Pfeil,Lucie Woodvil,bgl. Tr. in 5 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q55148569,https://d-nb.info/gnd/1199323160,https://dracor.org/id/ger000215,https://books.google.com/books?id=FLoF49Ke8z8C&pg=PA4499
+8,008,1756,1756,003[a],[Anonymus],Das Mutter-Söhnchen,Pros. bgl. Tr. in 3 A.,1',bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q133288015,,,https://books.google.com/books?id=tNZUAAAAcAAJ&printsec=frontcover
+9,009,1756,1756,–,[Anonymus],Der verschwenderische Kaufmann,Ssp. in 5 H.,3,Lsp/Ssp.,–,Theol.,http://www.wikidata.org/entity/Q130634388,,,https://books.google.com/books?id=CnhHAAAAcAAJ&printsec=frontcover
+10,010,1757,1757,004,G. Fr. Klopstock,Der Tod Adams,Tr. in Prosa,5',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q22809001,https://d-nb.info/gnd/4440560-1,https://dracor.org/id/ger000013,http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10112514-1
+11,011,1759,1759,007,Margarete Klopstock,Der Tod Abels,Tr. in 3 H.,5',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q130634521,,https://dracor.org/id/ger000722,https://www.digitale-sammlungen.de/de/view/bsb10606028?page=133
+12,012,1757,1757,005,J. W. v. Brawe,Der Freigeist,Tr. in Prosa u. 5 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q51369297,https://d-nb.info/gnd/1043981861,https://dracor.org/id/ger000283,https://books.google.com/books?id=AawOAAAAYAAJ&pg=PA97
+13,013,1757/58,"[1757,1758]",006,Chr. G. Lieberkühn,Die Lissabonner,bgl. Tr. in 1 A.,4h,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q123238778,,https://dracor.org/id/ger000730,https://books.google.com/books?id=nAPs9IZVrM4C&printsec=frontcover
+14,014,1757/59,"[1757,1759]",008,K. Th. Breithaupt,Der Renegat,bgl. Tr. [in Versen] in 5 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q130634456,,,https://books.google.com/books?id=WE93YhBDLW4C&printsec=frontcover
+15,015,1760,1760,009,Chr. M. Wieland,Clementina von Poretta,Tr. in 5 A.,6,Lsp/Ssp.,Rich.,Theol.,http://www.wikidata.org/entity/Q52927925,,https://dracor.org/id/ger000148,https://books.google.com/books?id=-S5dAAAAcAAJ&printsec=frontcover
+16,016,1757/60,"[1757,1760]",–,G. E. Lessing,Der natürliche Sohn,Ssp. in 5 A.,6,Lsp/Ssp.,Diderot,–,http://www.wikidata.org/entity/Q133288057,,,https://dibiki.ub.uni-kiel.de/viewer/image/PPN724871411/12/
+17,017,1758/60,"[1758,1760]",–,G. E. Lessing,Der Hausvater,Ssp. in 5 A.,6,Lsp/Ssp.,Diderot,–,http://www.wikidata.org/entity/Q133288984,,,https://dibiki.ub.uni-kiel.de/viewer/image/PPN724871632/6/
+18,018,1761,1761,010,G. C. Pfeffel,Der Einsiedler,Tr. in Versen in 1 A.,6,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q133270066,,,http://nbn-resolving.de/urn:nbn:de:bsz:31-264492
+19,019,1763,1763,011,J. J. Dusch,Der Bankerot,bgl. Tr. in 5 H.,3,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q133289015,,,https://books.google.com/books?id=SWtVAAAAcAAJ&printsec=frontcover
+20,020,1764,1764,+,G. C. Pfeffel,Serena,bgl. Tr. in Prose und 1 A.,1,bgl. Tr.,Landois,–,http://www.wikidata.org/entity/Q125134130,,https://dracor.org/id/ger000692,https://books.google.com/books?id=BUEwAAAAYAAJ&pg=PA25
+21,021,1764,1764,014,O. N. Baumgarten,Carl von Drontheim,Tr. in 5 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133839009,,,https://books.google.com/books?id=B-1YAAAAcAAJ&printsec=frontcover
+22,022,1765,1765,012,J. H. Steffens,Clarissa,bgl. Tr. in 3 A.,1s,bgl. Tr.,Rich.,Theol.,http://www.wikidata.org/entity/Q134983064,,,https://books.google.com/books?id=vMxaAAAAcAAJ&printsec=frontcover
+23,023,1765,1765,013,J. Chr. Brandes,Miß Fanny,[bgl.] Tr. in Prosa,2b,bgl. Tr.,Prévot,–,http://www.wikidata.org/entity/Q133839041,,,https://books.google.com/books?id=MFBZAAAAcAAJ&printsec=frontcover
+24,024,1766,1766,015,J. Chr. Lossius,Amalia,Tr. in 5 A.,2,bgl. Tr.,[S],Theol.,http://www.wikidata.org/entity/Q135013756,,,
+25,025,1767,1767,016,H. P. Sturz,Julie,[bgl.] Tr. in 5 A.,4h,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q52883292,,https://dracor.org/id/ger000066,https://books.google.com/books?id=WiM7AAAAcAAJ&printsec=frontcover
+26,026,1768,1768,+,Chr. F. Weiße,Romeo und Julie,bgl. Tr. in 5 A.,4h,bgl. Tr.,Shakesp.,–,http://www.wikidata.org/entity/Q133838971,,,https://doi.org/10.25673/54228
+27,027,1768,1768,017,Nüscheler,Inckle und Yaricko,Pros. Tr. in 3 H.,1,bgl. Tr.,Gellert,–,http://www.wikidata.org/entity/Q133843297,,,https://books.google.com/books?id=nmk6AAAAcAAJ&printsec=frontcover
+28,028,1768,1768,018,J. H. Faber,Inkle und Yariko,Tr. in Versen in 5 A.,1b',bgl. Tr.,Gellert,Theol.,http://www.wikidata.org/entity/Q135042272,,,https://books.google.com/books?id=aHg6AAAAcAAJ&printsec=frontcover
+29,029,1757/68,"[1757,1768]",019[a],J. H. Steffens,"Cleveland, oder: Die redliche Untreue",Tr. in 5 A.,1,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135914356,,,https://books.google.com/books?id=yMxaAAAAcAAJ&pg=PA1
+30,029,1757/68,"[1757,1768]",019[b],J. H. Steffens,"Cleveland, oder: Der irrende Philosoph",Ssp. in 5 A.,1,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135914374,,,https://books.google.com/books?id=CS5dAAAAcAAJ&printsec=frontcover
+31,030,1768,1768,–,[Anonymus],Die versäumte Erziehung,Tr. in Prosa in 5 A.,1b',bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q133820209,,,https://books.google.com/books?id=bmpVAAAAcAAJ&printsec=frontcover
+32,031,1769,1769,+,J. A. E. v. Ghelen,Die Menschlichkeit,bgl. Tr. in 5 A.,6i,Lsp/Ssp.,Boisset,Jus,http://www.wikidata.org/entity/Q133445214,,,https://books.google.com/books?id=Fq5HAAAAcAAJ&printsec=frontcover
+33,032,1769,1769,020,[Anonymus],Die unglückl. Belohnung,Tr. in 5 A.,4,her. Tr.,–,–,http://www.wikidata.org/entity/Q135043905,,,https://books.google.com/books?id=qtZUAAAAcAAJ&printsec=frontcover
+34,033,1769,1769,021,E. Fr. H. Falcke,Braitwell,bgl. Tr. in 1 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133270100,,,https://books.google.com/books?id=obRgAAAAcAAJ&printsec=frontcover
+35,034,1770,1770,022,J. G. Chr. Nonne,Don Pedro und Anton,bgl. Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q131389515,,,https://books.google.com/books?id=LtM6AAAAcAAJ&pg=PA139
+36,035,1770,1770,025,J. B. Pelzel,Yariko,Tr. in 1 H.,4,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133270117,,https://dracor.org/id/ger000742,https://books.google.com/books?id=G7cy4g6x598C&printsec=frontcover
+37,036,1770,1770,027,B. Pfeufer,Vendelino,Tr. in 3 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133843242,,,https://books.google.com/books?id=nXg6AAAAcAAJ&printsec=frontcover
+38,037,1771,1771,+,Chr. H. Schmid,Die Wayse,bgl. Tr. in 5 A.,5i,bgl. Tr.,Otway,–,http://www.wikidata.org/entity/Q133839067,,,https://books.google.com/books?id=76oyXLOgrXoC&pg=PA329
+39,038,1771,1771,023,T. Ph. v. Gebler,Klementine od. das Testament,Dr. in 5 A.,1,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q133445263,,,https://books.google.com/books?id=q5NMAAAAcAAJ&printsec=frontcover
+40,039,1771,1771,026,[Anonymus],Mis Jenny,trag. Nachspiel,4h',bgl. Tr.,Spect.,–,http://www.wikidata.org/entity/Q133843168,,,https://books.google.com/books?id=82lVAAAAcAAJ&printsec=frontcover
+41,040,1771,1771,028,J. I. Zimmermann,Dithmar,Tr. in 5 A.,5',hist. Dr.,–,–,http://www.wikidata.org/entity/Q133445224,,,https://books.google.com/books?id=pcIHByUndHAC&printsec=frontcover
+42,041,1771/72,"[1771,1772]",024,B. Pfeufer,Carl und Leonore,Tr. in 3 H.,2b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133445238,,,https://books.google.com/books?id=QmR_kEAhW_IC&printsec=frontcover
+43,042,1772,1772,029,G. E. Lessing,Emilia Galotti,Tr. in 5 A.,4h'',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q782653,https://d-nb.info/gnd/4079164-6,https://dracor.org/id/ger000088,https://books.google.com/books?id=YAxOAAAAcAAJ&printsec=frontcover
+44,043,1772,1772,030,E. Th. J. Brückner,Emilie Blontville,bgl. Tr. in 5 H.,1,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q133842991,,,https://data.onb.ac.at/rep/107375A4
+45,044,1772,1772,031,T. Ph. v. Gebler,Die Osmonde,Tr. in 5 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133843000,,,https://books.google.com/books?id=k79TAAAAcAAJ&printsec=frontcover
+46,045,1772,1772,032,[Anonymus],Fanny,trag. Nachspiel,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135044309,,,https://books.google.com/books?id=IyNVAAAAcAAJ&printsec=frontcover
+47,046,1772/80,"[1772,1780]",111,Chr. F. Weiße,Die Flucht,bgl. Tr. in 5 A.,4h,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133838953,,,https://books.google.com/books?id=wCmGAMgVHbsC&printsec=frontcover
+48,047,1773,1773,033,H. C. H. v. Trautzschen,Frh. von Bardenfels,bgl. Tr. in 3 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135433144,,,http://resolver.staatsbibliothek-berlin.de/SBB00019FD500020213
+49,048,1773,1773,038,J. Chr. Brandes,Olivie,Tr. in 5 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135433179,,,https://books.google.com/books?id=Q4jvQNlSUTcC&printsec=frontcover
+50,049,1773,1773,042,J. J. Bodmer,Fußfall vor den Brüdern,Tr. in 3 A.,6',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q133397500,,,https://doi.org/10.3931/e-rara-15341
+51,050,1774,1774,034,[Anonymus],Der Jesuit,Tr. in 6 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135084628,,,https://books.google.com/books?id=rJvSIyqtZHAC&pg=PA111
+52,051,1774,1774,035,[Anonymus],Die Braut im Portrait,Tr. in 5 A.,2b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135084721,,,https://books.google.com/books?id=L0tIAAAAcAAJ&printsec=frontcover
+53,052,1774,1774,036,J. W. v. Goethe,Clavigo,Tr. in 5 A.,4h'',bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q466752,https://d-nb.info/gnd/4280631-8,https://dracor.org/id/ger000157,https://books.google.com/books?id=dYo6AAAAcAAJ&printsec=frontcover
+54,053,1774,1774,037,J. M. R. Lenz,Der Hofmeister,Komödie,6,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q21213113,https://d-nb.info/gnd/4074154-0,https://dracor.org/id/ger000338,https://books.google.com/books?id=jU87AAAAcAAJ&printsec=frontcover
+55,054,1774,1774,039,J. C. Wezel,Der Graf von Wickham,Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133820019,https://d-nb.info/gnd/1358439958,https://dracor.org/id/ger000726,https://books.google.com/books?id=-2P00zyBMYkC&printsec=frontcover
+56,055,1774,1774,040,T. Ph. v. Gebler,Adelhaid von Siegmar,Tr. in 5 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133838925,,,https://books.google.com/books?id=OTp4gMEx8RIC&printsec=frontcover
+57,056,1774,1774,041,L. Zehnmark,Salvini und Adelson,Tr. in 3 A.,1b,bgl. Tr.,Arnauld,–,http://www.wikidata.org/entity/Q133250750,,,https://books.google.com/books?id=RCNVAAAAcAAJ&printsec=frontcover
+58,057,1774,1774,054,A. A. v. Crentzin,"Derbi, od. Treue u. Freundschaft",Tr. in 5 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q133838901,,,https://books.google.com/books?id=Mcu8daEIcqMC&printsec=frontcover
+59,058,1775,1775,043,Chr. E. Buschmann,Der Graf von der Weide,Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133419624,,,https://books.google.com/books?id=Oi1XAAAAcAAJ&printsec=frontcover
+60,059,1775,1775,044,J. Chr. Unzer,Diego und Leonore,Tr. in 4 A.,2,hist. Dr.,[E],Theol.,http://www.wikidata.org/entity/Q133838695,,,https://books.google.com/books?id=njzuS1q1ytAC&printsec=frontcover
+61,060,1775,1775,045,G. Fr. W. Grossmann,Wilhelmine von Blondheim,Tr. in 3 A.,2,bgl. Tr.,[E],Jus,http://www.wikidata.org/entity/Q133250770,,,https://books.google.com/books?id=BS1XAAAAcAAJ&printsec=frontcover
+62,061,1775,1775,046,Fr. M. Klinger,Das leidende Weib,Tr. in 5 A.,5i,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q95579878,https://d-nb.info/gnd/1219177105,https://dracor.org/id/ger000497,https://books.google.com/books?id=q546AAAAcAAJ&printsec=frontcover
+63,062,1775,1775,047,E. L. M. Rathlef,Die Mohrinn zu Hamburg,Tragödie in 5 A.,5,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q133330660,,,https://books.google.com/books?id=My1XAAAAcAAJ&printsec=frontcover
+64,063,1775,1775,048,Fr. Th. Thilo,Euphemie,bgl. Tr. in 5 A.,1s,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133413663,,,https://books.google.com/books?id=WdjmN0jdLCkC&printsec=frontcover
+65,064,1775,1775,049,A. S. Goué/Wahr,Iwanette und Stormond,Tr. in 3 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133413200,,https://dracor.org/id/ger000740,https://books.google.com/books?id=kYk6AAAAcAAJ&pg=PA1
+66,065,1775,1775,050,[Anonymus],Emilie Fermont,bgl. Tr. in 5 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133412781,,,https://books.google.com/books?id=Z8lIAAAAcAAJ&printsec=frontcover
+67,066,1775,1775,051,J. G. Göntgen,Anna Bell,Tr. in 1 A.,2,bgl. Tr.,Arnauld,–,http://www.wikidata.org/entity/Q131634169,,https://dracor.org/id/ger000719,https://books.google.com/books?id=42xVAAAAcAAJ&printsec=frontcover
+68,067,1775,1775,052,[Anonymus],Der Büchsenmacher,bgl. Tr. in 2 A.,4,bgl. Tr.,[E],Jus,http://www.wikidata.org/entity/Q29044623,,,https://books.google.com/books?id=dkhBAAAAYAAJ&printsec=frontcover
+69,068,1775,1775,053,Chr. G. Klemm,Eduard von Blumenberg,Tr. in 4 A.,1b',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133251365,,,https://books.google.com/books?id=7ZW064l-P8kC&pg=PA22
+70,069,1775,1775,055,H. L. Wagner,Die Reue nach der Tat,Ssp. in 6 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q55999240,,https://dracor.org/id/ger000264,https://books.google.com/books?id=I920ABMGdusC&printsec=frontcover
+71,070,1775,1775,056,I. Hübner,Der Lohn der Freundschaft,Trag. Ssp. in 5 A.,1,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133410361,,,https://books.google.com/books?id=PhdYAAAAcAAJ&printsec=frontcover
+72,071,1775,1775,059,A. S. Goué,Masuren oder Der junge Werther,Tr. in 3 H.,5,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q133411195,,https://dracor.org/id/ger000739,https://books.google.com/books?id=qE1aAAAAcAAJ&printsec=frontcover
+73,072,1775,1775,069,H. F. Möller,Ernest und Gabriele,Tr. in 5 A.,2,bgl. Tr.,(R),–,http://www.wikidata.org/entity/Q133411589,,,https://books.google.com/books?id=wKECGqfFKGAC&printsec=frontcover
+74,073,1775,1775,–,[Anonymus],Irene,bgl. Tr. in 5 A.,1b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133412357,,,https://books.google.com/books?id=6uxYAAAAcAAJ&pg=PA213
+75,?,1775,1775,–,[Anonymus],Die Freundschaft,bgl. Tr. in 3 A.,–,–,–,–,http://www.wikidata.org/entity/Q133838721,,,https://books.google.com/books?id=O9ZAAAAAcAAJ&printsec=frontcover
+76,074,1776,1776,+,Fr. W. Gotter,Mariane,bgl. Tr. in 3 H.,2,bgl. Tr.,LaHarpe,Theol.,http://www.wikidata.org/entity/Q131764259,https://d-nb.info/gnd/129444378X,,https://mdz-nbn-resolving.de/details:bsb10109384
+77,075,1776,1776,057,J. W. v. Goethe,Stella,Ssp. für Liebende in 5 A.,5i,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q2342072,https://d-nb.info/gnd/4099204-4,https://dracor.org/id/ger000126,https://books.google.com/books?id=5dImY3r_GEkC&printsec=frontcover
+78,076,1776,1776,058,J. A. Leisewitz,Julius von Tarent,Tr. in 5 A.,2,hist. Dr.,[E],–,http://www.wikidata.org/entity/Q1713126,https://d-nb.info/gnd/4114391-7,https://dracor.org/id/ger000050,https://books.google.com/books?id=HEyXE-phBDcC&printsec=frontcover
+79,077,1776,1776,060/61,André/Cremeri,Die Leiden des Jungen Werthers,Tr. in 3 A.,5i,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q134706903,,https://dracor.org/id/ger000731,https://books.google.com/books?id=BbxWAAAAcAAJ&printsec=frontcover
+80,078,1776,1776,062,J. J. Bodmer,Der Tod des ersten Menschen,rel. Dr.,5',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q135433210,,,https://doi.org/10.3931/e-rara-15745
+81,079,1776,1776,063,Fr. M. Klinger,Die neue Arria,Ssp. in 5 A.,4,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q56422542,https://d-nb.info/gnd/4327535-7,https://dracor.org/id/ger000103,https://books.google.com/books?id=nKs6AAAAcAAJ&printsec=frontcover
+82,?,1776,1776,064,M. J. Graf v. Daun,Adelson und Salvini,Tr. in 5 H.,–,–,–,–,http://www.wikidata.org/entity/Q133502950,,,http://digital.slub-dresden.de/id320749266
+83,080,1776,1776,065,K. H. Seibt,Gabriele Montalto,Tr. in 1 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133270197,,,https://books.google.com/books?id=d21VAAAAcAAJ&printsec=frontcover
+84,081,1776,1776,066,O. F. v. Diericke,Eduard Montrose,Tr. in 5 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q131633917,,,https://books.google.com/books?id=PSldAAAAcAAJ&printsec=frontcover
+85,082,1776,1776,082,[Anonymus],Montrose und Surrey,Tr. in 5 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q131633917,,,https://books.google.com/books?id=UM9UAAAAcAAJ&printsec=frontcover
+86,083,1776,1776,067,L. Ph. Hahn,Graf Karl von Adelsberg,Tr. in 5 A.,1',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133310391,https://d-nb.info/gnd/1199840882,,https://books.google.com/books?id=j21VAAAAcAAJ&printsec=frontcover
+87,084,1776,1776,068,B. Chr. d'Arien,Marie von Wahlburg,Tr. in 5 A.,5i,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q133871040,,,http://resolver.staatsbibliothek-berlin.de/SBB0000DD1000000000
+88,085,1776,1776,070,[Anonymus],Der Bürger,Tr. in 3 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133843367,,,https://books.google.com/books?id=1mxVAAAAcAAJ&printsec=frontcover
+89,086,1776,1776,071,J. Fr. E. Albrecht,Der unnatürliche Vater,Tr. in 3 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133843355,,,https://books.google.com/books?id=HxxYAAAAcAAJ&printsec=frontcover
+90,087,1776,1776,072,Fr. M. Klinger,Die Zwillinge,Tr. in 5 A.,2,hist. Dr.,–,Theol.,http://www.wikidata.org/entity/Q1217801,https://d-nb.info/gnd/4114230-5,https://dracor.org/id/ger000190,https://books.google.com/books?id=FFLdm1124L8C&pg=PA1
+91,088,1776,1776,073,H. L. Wagner,Die Kindermörderin,Tr. in 6 A.,5i,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q1213864,https://d-nb.info/gnd/4215993-3,https://dracor.org/id/ger000396,http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10122634-2
+92,089,1776,1776,074,J. Chr. Riebe,Die Gräfin von Wollberg,Tr. in 5 A.,2,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q133422929,,,https://books.google.com/books?id=vm1VAAAAcAAJ&printsec=frontcover
+93,090,1776,1776,075,H. F. Möller,Der Graf von Walltron,Tr. in 5 A.,6i,Lsp/Ssp.,–,Jus,http://www.wikidata.org/entity/Q114711538,,https://dracor.org/id/ger000593,https://books.google.com/books?id=7goAa3sq_BEC&printsec=frontcover
+94,091,1776,1776,080,Fr. M. Klinger,Sturm und Drang,Ssp. in 5 A.,6,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q1768388,https://d-nb.info/gnd/4568296-3,https://dracor.org/id/ger000053,https://books.google.com/books?id=AS1do56-7awC&printsec=frontcover
+95,092,1776/1803,"[1776,1803]",–,J. J. Engel,Eid und Pflicht,bgl. Tr. in 5 A.,6i,Lsp/Ssp.,–,Jus,http://www.wikidata.org/entity/Q52894275,,https://dracor.org/id/ger000262,https://books.google.com/books?id=-GpUAAAAcAAJ&printsec=frontcover
+96,093,1777,1777,076,J. M. R. Lenz,Der Engländer,Dram. Phantasie,5,bgl. Tr.,"[E, W]",Theol.,http://www.wikidata.org/entity/Q1193157,https://d-nb.info/gnd/4310175-6,https://dracor.org/id/ger000423,https://resolver.sub.uni-hamburg.de/kitodo/PPN1043585095
+97,094,1777,1777,077,J. Fr. Schink,Gianetta Montaldi,Tr. in 5 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q133310453,,,https://books.google.com/books?id=zTOwURVPlzkC&pg=PA117
+98,095,1777,1777,078,Engelbrecht/Förster,Caroline von Rothenburg,Tr. in 5 A.,1,bgl. Tr.,(R),–,http://www.wikidata.org/entity/Q135084338,,,https://books.google.com/books?id=W21VAAAAcAAJ&printsec=frontcover
 99,?,1777,1777,079,Chr. B. Schücking,[Königin] Elisabeth,,–,–,–,–,http://www.wikidata.org/entity/Q133310426,,
-100,096,1777/78,"[1777,1778]",081,Fr. K. A. v. Trützschler,Liebe und Tod,Tr. in 5 A.,4h,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q135084454,,
-101,097,1777,1777,083,A. A. v. Crentzin,Der Hochzeitstag,Tr. in 5 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133454498,,
-102,098,1777,1777,084,A. M. Sprickmann,Eulalia,Tr. in 5 A.,4h,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q133278512,https://d-nb.info/gnd/7787370-1,
-103,099,1777,1777,085,[Anonymus],"Amalia, unglückl. durch ihre Stiefmutter",Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133373914,,
-104,100,1777,1777,088,Willer,Werther,bgl. Tr. in Prosa und 3 A.,1a,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q131631284,,
-105,101,1778,1778,086,J. Fr. Schink,Lina von Waller,Tr. in 3 A.,5i,bgl. Tr.,[W],Theol.,http://www.wikidata.org/entity/Q135084465,,
-106,102,1778,1778,087,Chr. K. Schlegel,Düval und Charmille,bgl. Tr. in 5 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q118134246,https://d-nb.info/gnd/4685283-9,https://dracor.org/id/ger000613
-107,103,1778,1778,089,E. L. M. Rathlef,Albert Stucke,Tragödie in 5 A.,1b,bgl. Tr.,Ballade,–,http://www.wikidata.org/entity/Q133444674,,
-108,104,1778,1778,080,F. G. v. Nesselrode,Karoline od. d. unschuldige Opfer,Tr. in 3 H.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q133502972,,
-109,105,1778,1778,091,[Anonymus],Marie und Emilie,Tr. in 1 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133270749,,
-110,106,1778,1778,092,F. Christel,Norwich und Julie,Tr. in 2 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133270797,,
-111,107,1778,1778,093,H. F. Möller,Heinrich und Henriette,Tr. in 5 A.,1a,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133871053,,
-112,108,1778,1778,095,H. F. Möller,Emanuel und Elmire,Tr. in 5 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133839118,,
-113,109,1778,1778,096,T. B. Berger,Galora von Venedig,Tr. in 5 A.,2a,hist. Dr.,[E],–,http://www.wikidata.org/entity/Q135464697,,
-114,110,1778,1778,096,B. D. A. Cremeri,Amaliens Verlöbniß,Tr. in 2 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135905244,,
-115,111,1778,1778,097,J. A. Weiß,Rose Die Nonne wider ihren Willen,Tr. in 5 A.,2b,bgl. Tr.,[E],Theol.,http://www.wikidata.org/entity/Q125398385,,
-116,112,1778,1778,098,[Anonymus],Die verkannte Unschuld,Tr. in 5 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133839155,,
+100,096,1777/78,"[1777,1778]",081,Fr. K. A. v. Trützschler,Liebe und Tod,Tr. in 5 A.,4h,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q135084454,,,https://books.google.com/books?id=4xVaAAAAcAAJ&printsec=frontcover
+101,097,1777,1777,083,A. A. v. Crentzin,Der Hochzeitstag,Tr. in 5 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133454498,,,https://books.google.com/books?id=JxJYAAAAcAAJ&printsec=frontcover
+102,098,1777,1777,084,A. M. Sprickmann,Eulalia,Tr. in 5 A.,4h,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q133278512,https://d-nb.info/gnd/7787370-1,,https://books.google.com/books?id=02xVAAAAcAAJ&printsec=frontcover
+103,099,1777,1777,085,[Anonymus],"Amalia, unglückl. durch ihre Stiefmutter",Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133373914,,,https://books.google.com/books?id=2RRYAAAAcAAJ&printsec=frontcover
+104,100,1777,1777,088,Willer,Werther,bgl. Tr. in Prosa und 3 A.,1a,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q131631284,,,https://books.google.com/books?id=t2IuAAAAYAAJ&printsec=frontcover
+105,101,1778,1778,086,J. Fr. Schink,Lina von Waller,Tr. in 3 A.,5i,bgl. Tr.,[W],Theol.,http://www.wikidata.org/entity/Q135084465,,,https://books.google.com/books?id=NetYAAAAcAAJ&printsec=frontcover
+106,102,1778,1778,087,Chr. K. Schlegel,Düval und Charmille,bgl. Tr. in 5 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q118134246,https://d-nb.info/gnd/4685283-9,https://dracor.org/id/ger000613,https://books.google.com/books?id=asJTAAAAcAAJ&printsec=frontcover
+107,103,1778,1778,089,E. L. M. Rathlef,Albert Stucke,Tragödie in 5 A.,1b,bgl. Tr.,Ballade,–,http://www.wikidata.org/entity/Q133444674,,,https://books.google.com/books?id=WvJYAAAAcAAJ&printsec=frontcover
+108,104,1778,1778,080,F. G. v. Nesselrode,Karoline od. d. unschuldige Opfer,Tr. in 3 H.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q133502972,,,https://books.google.com/books?id=_r1TAAAAcAAJ&printsec=frontcover
+109,105,1778,1778,091,[Anonymus],Marie und Emilie,Tr. in 1 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133270749,,,https://books.google.com/books?id=T1nVG73eJE8C&printsec=frontcover
+110,106,1778,1778,092,F. Christel,Norwich und Julie,Tr. in 2 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133270797,,,https://books.google.com/books?id=nbIHnt1YTNcC&printsec=frontcover
+111,107,1778,1778,093,H. F. Möller,Heinrich und Henriette,Tr. in 5 A.,1a,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133871053,,,https://books.google.com/books?id=MCU7AAAAcAAJ&printsec=frontcover
+112,108,1778,1778,095,H. F. Möller,Emanuel und Elmire,Tr. in 5 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133839118,,,https://books.google.com/books?id=oJDKr9XcN1cC&printsec=frontcover
+113,109,1778,1778,096,T. B. Berger,Galora von Venedig,Tr. in 5 A.,2a,hist. Dr.,[E],–,http://www.wikidata.org/entity/Q135464697,,,http://resolver.staatsbibliothek-berlin.de/SBB0000DE3F00000000
+114,110,1778,1778,096,B. D. A. Cremeri,Amaliens Verlöbniß,Tr. in 2 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135905244,,,https://resolver.sub.uni-hamburg.de/kitodo/PPN816683344
+115,111,1778,1778,097,J. A. Weiß,Rose Die Nonne wider ihren Willen,Tr. in 5 A.,2b,bgl. Tr.,[E],Theol.,http://www.wikidata.org/entity/Q125398385,,,https://books.google.com/books?id=c7Q7AAAAcAAJ&printsec=frontcover
+116,112,1778,1778,098,[Anonymus],Die verkannte Unschuld,Tr. in 5 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133839155,,,https://books.google.com/books?id=w_FYAAAAcAAJ&printsec=frontcover
 117,?,1778,1778,099,A. P. Pollinger,Antonio del Bassiano,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q133289064,,
 118,113,1778,1778,–,[Anonymus],Jenny,bgl. Tr. in 5 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q135905228,,
-119,114,1779,1779,100,[Anonymus],Charlotte e. Opfer d. Aberglaubens,Tr. in 3 A.,4h,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q135902035,,
-120,115,1779,1779,101,J. A. Weiß,"Von Helm, Der Freygeist ein Heuchler",Tr. in 5 A.,1,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133289075,,
-121,116,1779,1779,102,S. G. Bürde,"Hochzeitstag, od. das Ärgste kommt zuletzt",Tr. in 5 A.,5,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q133826085,,
-122,117,1779,1779,103,E. L. M. Rathlef,Das Schloß Wartenfels,Tragödie in 5 A.,1a,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133826111,,
-123,118,1779,1779,104,Wagner,Der deutsche Student,Tr. in 5 A.,1b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q112943724,,https://dracor.org/id/ger000588
-124,119,1779,1779,105,J. I. Zimmermann,Der verlohrne Sohn,Tr. in 5 A.,6',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q133826120,,
-125,120,1779,1779,106,Fr. S. L. v. Eckhardt,Die Schwäger,Tr. in 5 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q131674889,,
-126,121,1779,1779,107,L. Th. Kosegarten,Darmond und Allwina,Tr. in 5 A.,2,Rit. ssp.,[W],–,http://www.wikidata.org/entity/Q131674932,,
-127,122,1779,1779,108,M. Scholz,Richard und Karl,Tr. in 5 A.,2b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133309902,,
-128,123,1779,1779,109,B. Chr. d'Arien,Natur und Liebe im Streit,Tr. in 5 A.,6,her. Ssp.,–,–,http://www.wikidata.org/entity/Q134445112,,https://dracor.org/id/ger000733
-129,124,1779,1779,110,F. A. Schraembl,Edwin und Emma,Ssp. in 5 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q134529782,,
-130,125,1779/80,"[1779,1780]",114,J. Chr. Brandes,Ottilie,Tr. in 5 A.,2,bgl. Tr.,[S],–,http://www.wikidata.org/entity/Q135901110,,
-131,126,1780,1780,112,Chr. F. Weiße,Jean Calas,Hist. Ssp. in 5 A.,4,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135012597,,
-132,127,1780,1780,113,J. G. B. Büschel,Theodor und Julie,Tr. in 5 A.,1,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q135901082,,
-133,128,1780,1780,115,H. Keller,Die Räuber,Scene a. d. Menschenleben,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135328709,,
-134,129,1780,1780,116,J. Prothke,Das leidende Mädchen,Tr. in 1 A.,4,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133270260,,
-135,130,1780,1780,117,L. C. H. Bischof,Der Judenfeind,Tr. in 1 A.,2,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133270380,,
-136,131,1780,1780,118,A. Th. Linhart,Miß Jenny Love,Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q20521867,,https://dracor.org/id/ger000735
-137,132,1780,1780,119,[Anonymus],Das unschuldige Opfer,Tr. in 4 A.,2,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q135013771,,
-138,133,1780,1780,120,J. A. v. Wielandt,Der Graf von Murrbach,Tr. in 5 A.,1b',bgl. Tr.,Arnauld,Jus,http://www.wikidata.org/entity/Q134446367,,
-139,134,1780/81,"[1780,1781]",121,J. Ph. Wollstädt,"Cassio, od., d. Folgen d. Eifersucht",Tr. in 5 A.,2,Rit. ssp.,Shakesp.,–,http://www.wikidata.org/entity/Q133826142,,
-140,135,1780,1780,122,F. Prinner,Das Ideal d. unglückl. Liebe od. Klerdon,Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135901063,,
-141,136,1780,1780,131,[Anonymus],Richmond Falben,bgl. Tr. in 5 A.,1',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133826157,,
-142,137,1780,1780,–,[Anonymus],Don Vincenzo,bgl. Tr. in 5 A.,1a,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q135905257,,
-143,138,1780,1780,–,O. H. v. Gemmingen,Der deutsche Hausvater,Ssp. in 5 H.,6,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q52895487,https://d-nb.info/gnd/1215366388,https://dracor.org/id/ger000189
-144,139,1781,1781,123,[Anonymus],Das Kriegsrecht,Tragödie,5i,bgl. Tr.,Mercier,Jus,http://www.wikidata.org/entity/Q135905277,,
-145,140,1781,1781,124,P.,Ardenhut und Mathilde,Tr. in 3 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133826174,,
-146,141,1781,1781,125,Chr. J. L. Steltzer,Franziska Montenegro,Tr. in 5 A.,2,hist. Dr.,[E],Theol.,http://www.wikidata.org/entity/Q131166948,,https://dracor.org/id/ger000716
-147,142,1781,1781,126,K. F. D. Grohmann,Gioconda od. Weiberrache,Tr. in 3 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q120490055,,https://dracor.org/id/ger000628
-148,143,1781,1781,127,[Anonymus],Lidie von Wendlant,bgl. Tr. in 5 A.,1,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q135898865,,
-149,144,1781,1781,129,K. F. G. v. Steinsberg,Miß Nelly Randolph,Tr. in 3 A.,1,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q135842094,,
-150,145,1781,1781,130,K. F. G. v. Steinsberg,Der Patriotismus,Tr. in 5 A.,K2+5,her. Tr.,–,–,http://www.wikidata.org/entity/Q135842132,,
-151,146,1781,1781,132,F. M. Vierthaler,Der englische Spion,Tr. in 4 A.,1b',hist. Dr.,–,Theol.,http://www.wikidata.org/entity/Q131803430,,
-152,147,1781,1781,133,Fr. Schiller,Die Räuber,Ssp. in 5 A.,K1+5,her. Dr.,–,–,http://www.wikidata.org/entity/Q466333,https://d-nb.info/gnd/4099339-5,https://dracor.org/id/ger000008
-153,148,1781,1781,–,W. A. Iffland,Albert von Thurneisen,bgl. Tr. in 4 A.,5i,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q130271055,,
-154,149,1782,1782,134,L. Erdmann,Der Hochverrath,Tr. in 3 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135842018,,
-155,150,1782,1782,135,L. Erdmann,Der Mißverstand,Tr. in 3 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135842064,,
-156,151,1782,1782,136,J. M. Babo,"Oda, die Frau von zween Männern",Tr. in 5 A.,1,Rit. ssp.,–,–,http://www.wikidata.org/entity/Q133826191,,
-157,152,1782,1782,137,L. Erdmann,Sainville,Tr. in 5 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135841938,,
-158,153,1782,1782,138,L. Erdmann,Wind und Wetter,Tr. in 2 A.,1,her. Tr.,–,–,http://www.wikidata.org/entity/Q135841908,,
-159,154,1783,1783,139,Fr. v. Eckart,Die vergiftete Traube,Tr. in 1 A.,1b,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q122749478,,https://dracor.org/id/ger000656
-160,155,1783/89,"[1783,1789]",140,[Anonymus],Rudolph von Mohelli,Tr. in 3 A.,1b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135899930,,
-161,156,1783/84,"[1783,1784]",141,Fr. Schiller,Kabale und Liebe,bgl. Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q263150,https://d-nb.info/gnd/4099337-1,https://dracor.org/id/ger000096
-162,157,1783,1783,146,K. F. Zimdar,"Freundschaft, Liebe, Eifersucht",Tr. in 5 A.,2,bgl. Tr.,"[E, W]",–,http://www.wikidata.org/entity/Q135900064,,
-163,158,1784,1784,142,[Anonymus],Afterwerther,Ssp. in 5 A.,6,Lsp/Ssp.,[W],–,http://www.wikidata.org/entity/Q134446439,,
-164,159,1784,1784,143,[Anonymus],Carl Otterbek,Tr. in 5 A.,1b,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q134446566,,
-165,160,1784,1784,144,J. G. Dyk,Leichtsinn u. Verführung,bgl. Tr. in 5 A.,1b,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q135900083,,
-166,161,1784/87,"[1784,1787]",161,J. G. Dyk,Ferdinand Pernau,Tr. in 5 A.,1b,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q135900215,,
-167,162,1784,1784,145,A. W. Iffland,Verbrechen aus Ehrsucht,ernsth. Fam.gemälde in 5 A.,3,Lsp/Ssp.,–,Jus,http://www.wikidata.org/entity/Q51395085,https://d-nb.info/gnd/1217605371,https://dracor.org/id/ger000235
-168,163,1784,1784,147,[Anonymus],Der Mann hat Brüder,Tr. in 3 A.,1b',bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q135900339,,
-169,164,1784,1784,–,Fr. L. Schröder,Der Vetter in Lissabon,bgl. Fam.gemälde in 3 A.,3,Lsp/Ssp.,–,Päd.,http://www.wikidata.org/entity/Q51451355,,https://dracor.org/id/ger000382
-170,165,1781/85,"[1781,1785]",159,J. Cornelius,Robert und Florinde,Tr. in 5 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q135085105,,
-171,166,1785,1785,148,A. D. Breicha,Amalie Ringenthal,Tr. in 5 A.,2,bgl. Tr.,[K+L],Päd.,http://www.wikidata.org/entity/Q135085087,,
-172,?,1785,1785,149,[Anonymus],Bianca Capello,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q135914320,,
-173,167,1785/86,"[1785,1786]",150,F. J.,Bianca Capello,Tr. in 5 A.,4,bgl. Tr.,(R),–,http://www.wikidata.org/entity/Q135914237,,
-174,168,1785,1785,151,G. L. Hempel,Karl und Louise,bgl. Tr. in 5 A.,2b,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q135085040,,
-175,169,1786,1786,160,H. Reinicke,Karl und Louise,Tr. in 5 A.,2b,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q135900422,,
-176,170,1785,1785,152,G. L. Hempel,Schwärmereyen d. Liebe u. d. Hasses,bgl. Tr. in 4 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133420397,,
-177,171,1785,1785,153,J. Fr. Knüppel,Thomas Morus,Tr. in 5 A.,4,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135084891,,
-178,172,1785,1785,–,A. G. Hartmann,Elise Hellfeld,bgl. Tr. in 3 A.,4,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135900448,,
-179,173,1786,1786,154,S. G. Presser,Die Folgen der Eifersucht,Tr. in 2 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135900494,,
-180,174,1786,1786,155,A. G. Hartmann,"Rosenwald, od. d. Folgen verkannter Liebe",Tr.,2a,bgl. Tr.,(R)[W],–,http://www.wikidata.org/entity/Q135900525,,
-181,175,1786,1786,156,F. G. Fruhwürth,Die Grafen Waldau,Tr. in 5 A.,1b',Rit. ssp.,–,–,http://www.wikidata.org/entity/Q135900581,,
-182,176,1786,1786,157,C. Starke,Die traurige Hochzeitsfeier,Tr. in 3 A.,5i,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135901030,,
-183,177,1786,1786,158,J. G. Dyk,Thomas Morus,Tr. in 5 A.,4,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135914225,,
-184,178,1787,1787,162,J. A. Waldvogel,Die falschen Banknoten,Tr. in 3 A.,1a,bgl. Tr.,[S],Päd.,http://www.wikidata.org/entity/Q132589577,,https://dracor.org/id/ger000718
-185,179,1787,1787,163,W. A. v. Eding,Der Kornet,Tr. nach e. vaterländ. Sage in 5 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q132710133,,
-186,180,1787,1787,164,E. Schikaneder,Der Grandprofos,Tr. in 4 A.,4,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q133278570,https://d-nb.info/gnd/7680479-3,
-187,181,1787,1787,165,J. N. Perchtold,Amalie von Kronbach,Tr. in 4 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133278638,,
-188,182,1787,1787,166,Fr. Spach,Karl von Schönbach,Tr. in 4 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135085115,,
-189,183,1787,1787,167,[Anonymus],Graf Gulli und seine Söhne,Tr. in 3 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135085131,,
-190,184,1787,1787,169,J. G. Schwarz,Carmelia Ronardo,Tr. in 5 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q135085202,,
-191,185,1787,1787,–,H. J. Wüst,Der gleichgültige Offizier,bgl. Tr. in 3 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135085247,,
-192,186,1787,1787,171,G. C. Claudius,Die Grafen Guiscardi,Tr. in 5 A.,1,bgl. Tr.,[K+L],–,http://www.wikidata.org/entity/Q135905331,,
-193,187,1787,1787,172,Fr. Spach,Verbrechen aus Vaterliebe,Tr. in 4 A.,2,bgl. Tr.,[K+L],Jus,http://www.wikidata.org/entity/Q132710958,,
-194,188,1788,1788,168,E. Thon,Adelheit von Rastenberg,Tr. in 5 A.,2,Rit. ssp.,–,–,http://www.wikidata.org/entity/Q135905349,,https://dracor.org/id/ger000741
-195,189,1788,1788,170,J. Maas,Cuenna,Tr. in 4 A.,1a,hist. Dr.,(R),–,http://www.wikidata.org/entity/Q135913309,,
-196,190,1789,1789,173,J. Korompay,Sandiny von Waldburg,Tr. in 5 A.,1',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q132710591,,
-197,191,1789,1789,174,[Chr. Fr. Bretzner],Der Lüderliche,Trag. Gemälde in 5 A.,1b',bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q135914047,,
-198,192,1789,1789,175,[Anonymus],Die Ketzer,Tr. in 3 A.,–,–,Bahrdt,Theol.,http://www.wikidata.org/entity/Q135913598,,
-199,193,1789,1789,176,[Anonymus],Fanny od. d. Verlobte d. Fürsten,Tr. in 5 A.,4,her. Tr.,–,–,http://www.wikidata.org/entity/Q135914032,,
-200,194,1789,1789,177,[Anonymus],Der Mord,Tr. in 5 A.,2,her. Tr.,–,–,http://www.wikidata.org/entity/Q135914009,,
-201,195,1789,1789,187,K. G. Lessing,Der Schlaftrunk,bgl. Tr. in 5 A.,1a,bgl. Tr.,Nr. 088,Jus,http://www.wikidata.org/entity/Q135914079,,
-202,196,1789,1789,190,J. Chr. Brandes,"Rahel, od.: Die schöne Jüdin",Tr. in 3 A.,K1+5,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135913636,,
-203,197,1789,1789,212,A. H. J. Lafontaine,Antonie od. d. Klostergelübde,Tr.,5,bgl. Tr.,Arnauld,Theol.,http://www.wikidata.org/entity/Q135914115,,
-204,?,1790,1790,178,[Anonymus],"Nina, oder Liebe und Klosterzwang",Tr.,–,–,–,–,http://www.wikidata.org/entity/Q134082246,,
-205,198,1790,1790,179,Wienbrack,Adolph und Minna oder d. Täuschung,Tr. in 5 A.,2,–,–,Jus,http://www.wikidata.org/entity/Q135913364,,
-206,?,1790,1790,180,F. Christel,Wolmar und Camille,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q135241494,,
-207,199,1790,1790,181,Chr. A. Vulpius,Leidenschaft und Liebe,Tr. in 5 A.,5,hist. Dr.,–,–,http://www.wikidata.org/entity/Q122529011,,
-208,?,1790,1790,182,J. J. Chr. Reck,Olivie Amenuti,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q126127534,,
-209,200,1790,1790,183,Chr. Fr. Bretzner,Der Geisterbeschwörer,Tr. in 3 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133503137,,
-210,201,1790,1790,184,H. Zschokke,Graf Monaldeschi,Tr. in 5 A.,2,hist. Dr.,[K+L],–,http://www.wikidata.org/entity/Q135913089,,
-211,202,1790,1790,185,E. A. W. Rost,Alonso und Leonore,Tr. in 5 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q135912399,,
-212,203,1790,1790,186,[Anonymus],Marschall Rubin und sein Sohn,Tr. in 3 A.,6i,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q135912336,,
-213,204,1790/92,"[1790,1792]",188,C. Reiner,Sophie,Tr. in 5 A.,5i,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135914170,,
-214,205,1790,1790,189,J. Fr. Schink,Die Leidenschaften,Tr. in 5 A.,1,hist. Dr.,–,–,http://www.wikidata.org/entity/Q133502981,,
-215,206,1790,1790,191,Chr. A. Vulpius,Serafina,Tr. in 5 A.,4,her. Tr.,(R),–,http://www.wikidata.org/entity/Q135913335,,
-216,207,1790,1790,–,Fr. Rosenberg,Ehrgeiz und Vorurtheil,bgl. Tr. in 5 H.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135913344,,
-217,208,1790/91,"[1790,1791]",–,L. Y. v. Buri,Die Stimme des Volkes,bgl. Tr. in 4 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135914194,,
-218,209,1791,1791,192,[Anonymus],Ormenio und Klarisse,Tr. in 5 A.,1,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133503043,,
-219,210,1791,1791,194,Fr. W. Ziegler,Eulalia Meinau,bgl. Tr. in 4 A.,1b',bgl. Tr.,Kotzebue,–,http://www.wikidata.org/entity/Q135087609,,
-220,211,1791,1791,195,Fr. W. Ziegler,Mathilde Gräfin von Gießbach,Tr. in 5 A.,1b',Rit. ssp.,–,–,http://www.wikidata.org/entity/Q135912317,,
-221,212,1791,1791,196,[Anonymus],Ada von Draiwing,Tr. in 5 A.,2,Rit. ssp.,–,–,http://www.wikidata.org/entity/Q131804029,,
-222,213,1791,1791,199,K. I. Geiger,Laster ist oft Tugend,Tr. in 3 A.,2,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q135909047,,
-223,214,1791/92,"[1791,1792]",193,J. L. B.,Grimaldo und Laura,Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135433249,,
-224,215,1792,1792,197,Chr. A. Vulpius,Graf Benjowsky,Tr. in 5 A.,5,her. Tr.,–,–,http://www.wikidata.org/entity/Q133503011,,
-225,216,1792,1792,198,K. F. Schelcher,Capello und Turii,Ssp. in 4 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133502996,,
-226,?,1792,1792,200,J. G. Essich,Bianca Capello,Tr.,–,–,–,–,http://www.wikidata.org/entity/Q135433233,,
-227,217,1792,1792,201,F. A. v. Bromme,Cuenna und Vivonne,Tr. in 5 A.,5,hist. Dr.,(R),–,http://www.wikidata.org/entity/Q133503029,,
-228,218,1792,1792,202,C. Frh. v. Reitzenstein,Graf Königsmark,Tr. in 5 A.,2,bgl. Tr.,"[E, K+L]",–,http://www.wikidata.org/entity/Q133374174,,
-229,219,1792,1792,203,J. N. Komareck,Marie von Montalban,Tr. m. Chören in 5 A.,1,hist. Dr.,Plümicke,Theol.,http://www.wikidata.org/entity/Q133374066,,
-230,220,1793,1793,204,Fr. Leo,Der Generalmarsch,Tr. in 4 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133374150,,
-231,221,1793,1793,205,C. Frh. v. Reitzenstein,Die Negersklaven,Tr. in 5 A.,K2+1,her. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133374196,,https://dracor.org/id/ger000734
-232,222,1793,1793,206,J. N. Komareck,Krok,Tr. in 3 A.,K1+5,hist. Dr.,–,Theol.,http://www.wikidata.org/entity/Q133503018,,
-233,223,1793,1793,–,L. Y. v. Buri,Ludwig Capet,bgl. Tr. in 4 A.,4,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135087588,,
-234,224,1794,1794,–,A. Klein,Sieg der Tugend und d. Liebe,bgl. Ssp. in 4 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133383478,,
-235,225,1794,1794,207,A. Fr. Schultze,Das Opfer d. Leidenschaft,Tr. in 3 A.,4,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q135084477,,
-236,226,1794,1794,208,H. Meyer,Hartmuth Hager,Tr. in 5 A.,[K1+5],Rit. ssp.,–,Theol.,http://www.wikidata.org/entity/Q133382324,,
-237,227,1794,1794,209,Chr. J. S. Contessa,Hedwig von Wolfsstein,Tr. in 3 A.,1,Rit. ssp.,–,Theol.,http://www.wikidata.org/entity/Q135084494,,
-238,228,1794,1794,210,F. A. v. Kotzebue,Graf Benjowski,Ssp. in 5 A.,6,her. Ssp.,–,–,http://www.wikidata.org/entity/Q1541382,,https://dracor.org/id/ger000488
-239,229,1795,1795,211,J. Fr. E. Albrecht,Wilhelmine Relast,Tr. in 5 A.,1a,bgl. Tr.,Lillo,–,http://www.wikidata.org/entity/Q122537760,,
-240,230,1795,1795,213,[Anonymus],Guido Jaffieri,Tr. in 5 A.,5,hist. Dr.,Otway,–,http://www.wikidata.org/entity/Q135084516,,
-241,231,1795,1795,214?,[Anonymus],Minna,Tr. in 5 A.,2,Rit. ssp.,–,–,http://www.wikidata.org/entity/Q133380676,,
-242,232,1795/96,"[1795,1796]",215,[H. G. Schmieder?],Tugendopfer,Tr. in 5 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q133379568,,
-243,233,1796,1796,216,A. W. Heidemann,Tugend und Laster,Tr. in 5 A.,1b',bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q135084531,,
-244,234,1796,1796,217,[Anonymus],Pfaffengroll,Tr. in 5 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135012610,,
-245,235,1796,1796,218,[Anonymus],Kabale und Rache,Tr. in 5 A.,4,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135084552,,
-246,?,1796,1796,219,Z.,Laura Mollise,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q131804402,,
-247,236,1797,1797,220,K. Fr. Kahlert,Maria von Schwaningen,Tr. in 5 A.,1,Rit. ssp.,–,Theol.,http://www.wikidata.org/entity/Q133503049,,
-248,237,1797,1797,221,Chr. Fr. Nielsen,Klara von Synau,Tr. in 5 A.,2a,bgl. Tr.,(R),–,http://www.wikidata.org/entity/Q133503105,,
-249,238,1797,1797,222,E. A. Fr. Klingemann,Die Maske,Tr. in 4 A.,1,hist. Dr.,–,–,http://www.wikidata.org/entity/Q133503122,,
-250,239,1797,1797,223,[Anonymus],Tiepolo,Tr. in 5 A.,5,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135084568,,
-251,?,1797,1797,227,J. Fr. J. Bauer,Karl von Hochberg,Tr. in 4 A.,–,–,–,–,http://www.wikidata.org/entity/Q133378792,,
-252,?,1798,1798,225,[Anonymus],Der Abschied,Tr. in 2 A.,–,–,–,–,http://www.wikidata.org/entity/Q130350990,,https://dracor.org/id/ger000714
-253,240,1798,1798,224,Körtingen,Anello,Tr. in 5 A.,2,Rit. ssp.,–,–,http://www.wikidata.org/entity/Q133375891,,
-254,241,1798,1798,226,K. Wallishauser,"Manuel, der falsche Freund",Tr. in 5 A.,1,hist. Dr.,–,–,http://www.wikidata.org/entity/Q130368504,,
+119,114,1779,1779,100,[Anonymus],Charlotte e. Opfer d. Aberglaubens,Tr. in 3 A.,4h,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q135902035,,,https://books.google.com/books?id=s0hNAYjNXLAC&printsec=frontcover
+120,115,1779,1779,101,J. A. Weiß,"Von Helm, Der Freygeist ein Heuchler",Tr. in 5 A.,1,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133289075,,,https://books.google.com/books?id=xFalNmeHlNQC&printsec=frontcover
+121,116,1779,1779,102,S. G. Bürde,"Hochzeitstag, od. das Ärgste kommt zuletzt",Tr. in 5 A.,5,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q133826085,,,https://books.google.com/books?id=sPFYAAAAcAAJ&printsec=frontcover
+122,117,1779,1779,103,E. L. M. Rathlef,Das Schloß Wartenfels,Tragödie in 5 A.,1a,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133826111,,,https://books.google.com/books?id=VPBYAAAAcAAJ&printsec=frontcover
+123,118,1779,1779,104,Wagner,Der deutsche Student,Tr. in 5 A.,1b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q112943724,,https://dracor.org/id/ger000588,https://books.google.com/books?id=F7XPW3ReAeIC&printsec=frontcover
+124,119,1779,1779,105,J. I. Zimmermann,Der verlohrne Sohn,Tr. in 5 A.,6',bibl. Dr.,–,Theol.,http://www.wikidata.org/entity/Q133826120,,,https://books.google.com/books?id=rZkRxq5I2hUC&printsec=frontcover
+125,120,1779,1779,106,Fr. S. L. v. Eckhardt,Die Schwäger,Tr. in 5 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q131674889,,,https://books.google.com/books?id=MfBYAAAAcAAJ&pg=PP99
+126,121,1779,1779,107,L. Th. Kosegarten,Darmond und Allwina,Tr. in 5 A.,2,Rit. ssp.,[W],–,http://www.wikidata.org/entity/Q131674932,,,https://books.google.com/books?id=7vJYAAAAcAAJ&printsec=frontcover
+127,122,1779,1779,108,M. Scholz,Richard und Karl,Tr. in 5 A.,2b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133309902,,,http://resolver.staatsbibliothek-berlin.de/SBB0000C06200000000
+128,123,1779,1779,109,B. Chr. d'Arien,Natur und Liebe im Streit,Tr. in 5 A.,6,her. Ssp.,–,–,http://www.wikidata.org/entity/Q134445112,,https://dracor.org/id/ger000733,https://books.google.com/books?id=w50duSixMaMC&printsec=frontcover
+129,124,1779,1779,110,F. A. Schraembl,Edwin und Emma,Ssp. in 5 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q134529782,,,https://books.google.com/books?id=wSQ7AAAAcAAJ&printsec=frontcover
+130,125,1779/80,"[1779,1780]",114,J. Chr. Brandes,Ottilie,Tr. in 5 A.,2,bgl. Tr.,[S],–,http://www.wikidata.org/entity/Q135901110,,,https://books.google.com/books?id=b3YahCLK7XIC&printsec=frontcover
+131,126,1780,1780,112,Chr. F. Weiße,Jean Calas,Hist. Ssp. in 5 A.,4,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135012597,,,https://books.google.com/books?id=oSzuyXd8ATkC&printsec=frontcover
+132,127,1780,1780,113,J. G. B. Büschel,Theodor und Julie,Tr. in 5 A.,1,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q135901082,,,https://books.google.com/books?id=LGL1-NvEbHMC&printsec=frontcover
+133,128,1780,1780,115,H. Keller,Die Räuber,Scene a. d. Menschenleben,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135328709,,,https://books.google.com/books?id=ERRaAAAAcAAJ&printsec=frontcover
+134,129,1780,1780,116,J. Prothke,Das leidende Mädchen,Tr. in 1 A.,4,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133270260,,,https://books.google.com/books?id=hBFaAAAAcAAJ&printsec=frontcover
+135,130,1780,1780,117,L. C. H. Bischof,Der Judenfeind,Tr. in 1 A.,2,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133270380,,,https://books.google.com/books?id=exFaAAAAcAAJ&printsec=frontcover
+136,131,1780,1780,118,A. Th. Linhart,Miß Jenny Love,Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q20521867,,https://dracor.org/id/ger000735,https://books.google.com/books?id=WtM5AAAAcAAJ&printsec=frontcover
+137,132,1780,1780,119,[Anonymus],Das unschuldige Opfer,Tr. in 4 A.,2,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q135013771,,,https://books.google.com/books?id=8RBaAAAAcAAJ&printsec=frontcover
+138,133,1780,1780,120,J. A. v. Wielandt,Der Graf von Murrbach,Tr. in 5 A.,1b',bgl. Tr.,Arnauld,Jus,http://www.wikidata.org/entity/Q134446367,,,https://books.google.com/books?id=DDzl6VcH4bwC&printsec=frontcover
+139,134,1780/81,"[1780,1781]",121,J. Ph. Wollstädt,"Cassio, od., d. Folgen d. Eifersucht",Tr. in 5 A.,2,Rit. ssp.,Shakesp.,–,http://www.wikidata.org/entity/Q133826142,,,https://books.google.com/books?id=F89UAAAAcAAJ&printsec=frontcover
+140,135,1780,1780,122,F. Prinner,Das Ideal d. unglückl. Liebe od. Klerdon,Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135901063,,,https://books.google.com/books?id=2cHiG4zOMloC&printsec=frontcover
+141,136,1780,1780,131,[Anonymus],Richmond Falben,bgl. Tr. in 5 A.,1',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133826157,,,https://books.google.com/books?id=V18TAAAAYAAJ&printsec=frontcover
+142,137,1780,1780,–,[Anonymus],Don Vincenzo,bgl. Tr. in 5 A.,1a,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q135905257,,,https://books.google.com/books?id=LfaC6F3fZbEC&printsec=frontcover
+143,138,1780,1780,–,O. H. v. Gemmingen,Der deutsche Hausvater,Ssp. in 5 H.,6,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q52895487,https://d-nb.info/gnd/1215366388,https://dracor.org/id/ger000189,https://books.google.com/books?id=04M6AAAAcAAJ&printsec=frontcover
+144,139,1781,1781,123,[Anonymus],Das Kriegsrecht,Tragödie,5i,bgl. Tr.,Mercier,Jus,http://www.wikidata.org/entity/Q135905277,,,https://books.google.com/books?id=GTVIAAAAcAAJ&printsec=frontcover
+145,140,1781,1781,124,P.,Ardenhut und Mathilde,Tr. in 3 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133826174,,,https://books.google.com/books?id=SVZZAAAAcAAJ&printsec=frontcover
+146,141,1781,1781,125,Chr. J. L. Steltzer,Franziska Montenegro,Tr. in 5 A.,2,hist. Dr.,[E],Theol.,http://www.wikidata.org/entity/Q131166948,,https://dracor.org/id/ger000716,https://books.google.com/books?id=CrxTAAAAcAAJ&printsec=frontcover
+147,142,1781,1781,126,K. F. D. Grohmann,Gioconda od. Weiberrache,Tr. in 3 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q120490055,,https://dracor.org/id/ger000628,https://books.google.com/books?id=qxNaAAAAcAAJ&printsec=frontcover
+148,143,1781,1781,127,[Anonymus],Lidie von Wendlant,bgl. Tr. in 5 A.,1,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q135898865,,,http://resolver.staatsbibliothek-berlin.de/SBB00022DCE00000000
+149,144,1781,1781,129,K. F. G. v. Steinsberg,Miß Nelly Randolph,Tr. in 3 A.,1,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q135842094,,,https://books.google.com/books?id=tdRfAAAAcAAJ&pg=PA1
+150,145,1781,1781,130,K. F. G. v. Steinsberg,Der Patriotismus,Tr. in 5 A.,K2+5,her. Tr.,–,–,http://www.wikidata.org/entity/Q135842132,,,https://books.google.com/books?id=SrjOtLEs5YQC&printsec=frontcover
+151,146,1781,1781,132,F. M. Vierthaler,Der englische Spion,Tr. in 4 A.,1b',hist. Dr.,–,Theol.,http://www.wikidata.org/entity/Q131803430,,,https://books.google.com/books?id=ayU7AAAAcAAJ&printsec=frontcover
+152,147,1781,1781,133,Fr. Schiller,Die Räuber,Ssp. in 5 A.,K1+5,her. Dr.,–,–,http://www.wikidata.org/entity/Q466333,https://d-nb.info/gnd/4099339-5,https://dracor.org/id/ger000008,https://books.google.com/books?id=lBNaAAAAcAAJ&printsec=frontcover
+153,148,1781,1781,–,W. A. Iffland,Albert von Thurneisen,bgl. Tr. in 4 A.,5i,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q130271055,,,https://books.google.com/books?id=IQpFcCUzwQEC&printsec=frontcover
+154,149,1782,1782,134,L. Erdmann,Der Hochverrath,Tr. in 3 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135842018,,,https://books.google.com/books?id=ythaAAAAcAAJ&printsec=frontcover
+155,150,1782,1782,135,L. Erdmann,Der Mißverstand,Tr. in 3 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135842064,,,https://books.google.com/books?id=JyU7AAAAcAAJ&printsec=frontcover
+156,151,1782,1782,136,J. M. Babo,"Oda, die Frau von zween Männern",Tr. in 5 A.,1,Rit. ssp.,–,–,http://www.wikidata.org/entity/Q133826191,,,https://books.google.com/books?id=ySU7AAAAcAAJ&printsec=frontcover
+157,152,1782,1782,137,L. Erdmann,Sainville,Tr. in 5 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135841938,,,https://books.google.com/books?id=ZSc7AAAAcAAJ&printsec=frontcover
+158,153,1782,1782,138,L. Erdmann,Wind und Wetter,Tr. in 2 A.,1,her. Tr.,–,–,http://www.wikidata.org/entity/Q135841908,,,https://books.google.com/books?id=wCU7AAAAcAAJ&printsec=frontcover
+159,154,1783,1783,139,Fr. v. Eckart,Die vergiftete Traube,Tr. in 1 A.,1b,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q122749478,,https://dracor.org/id/ger000656,https://books.google.com/books?id=o-tKAAAAcAAJ&printsec=frontcover
+160,155,1783/89,"[1783,1789]",140,[Anonymus],Rudolph von Mohelli,Tr. in 3 A.,1b,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135899930,,,https://books.google.com/books?id=H-5N__AU-08C&printsec=frontcover
+161,156,1783/84,"[1783,1784]",141,Fr. Schiller,Kabale und Liebe,bgl. Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q263150,https://d-nb.info/gnd/4099337-1,https://dracor.org/id/ger000096,https://books.google.com/books?id=FiJdAAAAcAAJ&printsec=frontcover
+162,157,1783,1783,146,K. F. Zimdar,"Freundschaft, Liebe, Eifersucht",Tr. in 5 A.,2,bgl. Tr.,"[E, W]",–,http://www.wikidata.org/entity/Q135900064,,,https://books.google.com/books?id=00BbAAAAcAAJ&printsec=frontcover
+163,158,1784,1784,142,[Anonymus],Afterwerther,Ssp. in 5 A.,6,Lsp/Ssp.,[W],–,http://www.wikidata.org/entity/Q134446439,,,https://books.google.com/books?id=jbRHAAAAcAAJ&printsec=frontcover
+164,159,1784,1784,143,[Anonymus],Carl Otterbek,Tr. in 5 A.,1b,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q134446566,,,https://books.google.com/books?id=R4Zc77li-FMC&printsec=frontcover
+165,160,1784,1784,144,J. G. Dyk,Leichtsinn u. Verführung,bgl. Tr. in 5 A.,1b,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q135900083,,,https://books.google.com/books?id=Zik7AAAAcAAJ&printsec=frontcover
+166,161,1784/87,"[1784,1787]",161,J. G. Dyk,Ferdinand Pernau,Tr. in 5 A.,1b,bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q135900215,,,https://books.google.com/books?id=IrM7AAAAcAAJ&printsec=frontcover
+167,162,1784,1784,145,A. W. Iffland,Verbrechen aus Ehrsucht,ernsth. Fam.gemälde in 5 A.,3,Lsp/Ssp.,–,Jus,http://www.wikidata.org/entity/Q51395085,https://d-nb.info/gnd/1217605371,https://dracor.org/id/ger000235,https://books.google.com/books?id=5tpaAAAAcAAJ&printsec=frontcover
+168,163,1784,1784,147,[Anonymus],Der Mann hat Brüder,Tr. in 3 A.,1b',bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q135900339,,,https://books.google.com/books?id=u9paAAAAcAAJ&printsec=frontcover
+169,164,1784,1784,–,Fr. L. Schröder,Der Vetter in Lissabon,bgl. Fam.gemälde in 3 A.,3,Lsp/Ssp.,–,Päd.,http://www.wikidata.org/entity/Q51451355,,https://dracor.org/id/ger000382,https://books.google.com/books?id=t2pkAAAAcAAJ&printsec=frontcover
+170,165,1781/85,"[1781,1785]",159,J. Cornelius,Robert und Florinde,Tr. in 5 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q135085105,,,https://books.google.com/books?id=Kc56lYqxq7QC&printsec=frontcover
+171,166,1785,1785,148,A. D. Breicha,Amalie Ringenthal,Tr. in 5 A.,2,bgl. Tr.,[K+L],Päd.,http://www.wikidata.org/entity/Q135085087,,,https://books.google.com/books?id=pVhIAAAAcAAJ&printsec=frontcover
+172,?,1785,1785,149,[Anonymus],Bianca Capello,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q135914320,,,
+173,167,1785/86,"[1785,1786]",150,F. J.,Bianca Capello,Tr. in 5 A.,4,bgl. Tr.,(R),–,http://www.wikidata.org/entity/Q135914237,,,https://books.google.com/books?id=g7xTAAAAcAAJ&printsec=frontcover
+174,168,1785,1785,151,G. L. Hempel,Karl und Louise,bgl. Tr. in 5 A.,2b,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q135085040,,,http://resolver.sub.uni-hamburg.de/goobi/PPN88390781X
+175,169,1786,1786,160,H. Reinicke,Karl und Louise,Tr. in 5 A.,2b,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q135900422,,,https://books.google.com/books?id=Lo_6lBbl4VUC&printsec=frontcover
+176,170,1785,1785,152,G. L. Hempel,Schwärmereyen d. Liebe u. d. Hasses,bgl. Tr. in 4 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133420397,,,https://data.onb.ac.at/rep/10272835
+177,171,1785,1785,153,J. Fr. Knüppel,Thomas Morus,Tr. in 5 A.,4,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135084891,,,https://books.google.com/books?id=QqFhAAAAcAAJ&printsec=frontcover
+178,172,1785,1785,–,A. G. Hartmann,Elise Hellfeld,bgl. Tr. in 3 A.,4,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135900448,,,https://books.google.com/books?id=17BHAAAAcAAJ&printsec=frontcover
+179,173,1786,1786,154,S. G. Presser,Die Folgen der Eifersucht,Tr. in 2 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135900494,,,https://books.google.com/books?id=VDJJAAAAcAAJ&printsec=frontcover
+180,174,1786,1786,155,A. G. Hartmann,"Rosenwald, od. d. Folgen verkannter Liebe",Tr.,2a,bgl. Tr.,(R)[W],–,http://www.wikidata.org/entity/Q135900525,,,https://books.google.com/books?id=o3FHAAAAcAAJ&printsec=frontcover
+181,175,1786,1786,156,F. G. Fruhwürth,Die Grafen Waldau,Tr. in 5 A.,1b',Rit. ssp.,–,–,http://www.wikidata.org/entity/Q135900581,,,https://books.google.com/books?id=YFKKesKYTycC&printsec=frontcover
+182,176,1786,1786,157,C. Starke,Die traurige Hochzeitsfeier,Tr. in 3 A.,5i,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135901030,,,https://books.google.com/books?id=_sE6AAAAcAAJ&printsec=frontcover
+183,177,1786,1786,158,J. G. Dyk,Thomas Morus,Tr. in 5 A.,4,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135914225,,,https://books.google.com/books?id=50eNyf7NOW4C&printsec=frontcover
+184,178,1787,1787,162,J. A. Waldvogel,Die falschen Banknoten,Tr. in 3 A.,1a,bgl. Tr.,[S],Päd.,http://www.wikidata.org/entity/Q132589577,,https://dracor.org/id/ger000718,https://books.google.com/books?id=FvdHAAAAcAAJ&printsec=frontcover
+185,179,1787,1787,163,W. A. v. Eding,Der Kornet,Tr. nach e. vaterländ. Sage in 5 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q132710133,,,https://books.google.com/books?id=RXhHAAAAcAAJ&printsec=frontcover
+186,180,1787,1787,164,E. Schikaneder,Der Grandprofos,Tr. in 4 A.,4,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q133278570,https://d-nb.info/gnd/7680479-3,,https://books.google.com/books?id=RLM7AAAAcAAJ&printsec=frontcover
+187,181,1787,1787,165,J. N. Perchtold,Amalie von Kronbach,Tr. in 4 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133278638,,,https://books.google.com/books?id=ZQpHUkqkSkAC&printsec=frontcover
+188,182,1787,1787,166,Fr. Spach,Karl von Schönbach,Tr. in 4 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135085115,,,https://books.google.com/books?id=GudypOiIbqIC&printsec=frontcover
+189,183,1787,1787,167,[Anonymus],Graf Gulli und seine Söhne,Tr. in 3 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135085131,,,https://books.google.com/books?id=PjJV188FcDgC&printsec=frontcover
+190,184,1787,1787,169,J. G. Schwarz,Carmelia Ronardo,Tr. in 5 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q135085202,,,https://books.google.com/books?id=mDBJAAAAcAAJ&printsec=frontcover
+191,185,1787,1787,–,H. J. Wüst,Der gleichgültige Offizier,bgl. Tr. in 3 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135085247,,,https://books.google.com/books?id=3jxlQ0sB40sC&printsec=frontcover
+192,186,1787,1787,171,G. C. Claudius,Die Grafen Guiscardi,Tr. in 5 A.,1,bgl. Tr.,[K+L],–,http://www.wikidata.org/entity/Q135905331,,,https://books.google.com/books?id=3g-IYmnnjA4C&printsec=frontcover
+193,187,1787,1787,172,Fr. Spach,Verbrechen aus Vaterliebe,Tr. in 4 A.,2,bgl. Tr.,[K+L],Jus,http://www.wikidata.org/entity/Q132710958,,,https://books.google.com/books?id=9lVZAAAAcAAJ&printsec=frontcover
+194,188,1788,1788,168,E. Thon,Adelheit von Rastenberg,Tr. in 5 A.,2,Rit. ssp.,–,–,http://www.wikidata.org/entity/Q135905349,,https://dracor.org/id/ger000741,https://books.google.com/books?id=aAU7AAAAcAAJ&pg=PA251
+195,189,1788,1788,170,J. Maas,Cuenna,Tr. in 4 A.,1a,hist. Dr.,(R),–,http://www.wikidata.org/entity/Q135913309,,,https://books.google.com/books?id=NzJJAAAAcAAJ&printsec=frontcover
+196,190,1789,1789,173,J. Korompay,Sandiny von Waldburg,Tr. in 5 A.,1',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q132710591,,,https://books.google.com/books?id=MthJAAAAcAAJ&printsec=frontcover
+197,191,1789,1789,174,[Chr. Fr. Bretzner],Der Lüderliche,Trag. Gemälde in 5 A.,1b',bgl. Tr.,–,Päd.,http://www.wikidata.org/entity/Q135914047,,,https://books.google.com/books?id=hkNZAAAAcAAJ&printsec=frontcover
+198,192,1789,1789,175,[Anonymus],Die Ketzer,Tr. in 3 A.,–,–,Bahrdt,Theol.,http://www.wikidata.org/entity/Q135913598,,,https://books.google.com/books?id=6-pCs7y1qVAC&printsec=frontcover
+199,193,1789,1789,176,[Anonymus],Fanny od. d. Verlobte d. Fürsten,Tr. in 5 A.,4,her. Tr.,–,–,http://www.wikidata.org/entity/Q135914032,,,https://books.google.com/books?id=kmtUAAAAcAAJ&printsec=frontcover
+200,194,1789,1789,177,[Anonymus],Der Mord,Tr. in 5 A.,2,her. Tr.,–,–,http://www.wikidata.org/entity/Q135914009,,,https://books.google.com/books?id=15euQaHFWQUC&printsec=frontcover
+201,195,1789,1789,187,K. G. Lessing,Der Schlaftrunk,bgl. Tr. in 5 A.,1a,bgl. Tr.,Nr. 088,Jus,http://www.wikidata.org/entity/Q135914079,,,https://books.google.com/books?id=_FnRBVgEgYoC&pg=PA363
+202,196,1789,1789,190,J. Chr. Brandes,"Rahel, od.: Die schöne Jüdin",Tr. in 3 A.,K1+5,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135913636,,,http://resolver.staatsbibliothek-berlin.de/SBB0000C1F100000000
+203,197,1789,1789,212,A. H. J. Lafontaine,Antonie od. d. Klostergelübde,Tr.,5,bgl. Tr.,Arnauld,Theol.,http://www.wikidata.org/entity/Q135914115,,,https://books.google.com/books?id=AttJAAAAcAAJ&printsec=frontcover
+204,?,1790,1790,178,[Anonymus],"Nina, oder Liebe und Klosterzwang",Tr.,–,–,–,–,http://www.wikidata.org/entity/Q134082246,,,https://wwwextern.ubn.ru.nl/BookReader/MMUBN000000_004984900/
+205,198,1790,1790,179,Wienbrack,Adolph und Minna oder d. Täuschung,Tr. in 5 A.,2,–,–,Jus,http://www.wikidata.org/entity/Q135913364,,,https://books.google.com/books?id=7jFJAAAAcAAJ&printsec=frontcover
+206,?,1790,1790,180,F. Christel,Wolmar und Camille,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q135241494,,,https://www.digitale-bibliothek-mv.de/viewer/image/PPN870166131/
+207,199,1790,1790,181,Chr. A. Vulpius,Leidenschaft und Liebe,Tr. in 5 A.,5,hist. Dr.,–,–,http://www.wikidata.org/entity/Q122529011,,,https://books.google.com/books?id=qEk7AAAAcAAJ&printsec=frontcover
+208,?,1790,1790,182,J. J. Chr. Reck,Olivie Amenuti,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q126127534,,,http://resolver.sub.uni-goettingen.de/purl?PPN730245462
+209,200,1790,1790,183,Chr. Fr. Bretzner,Der Geisterbeschwörer,Tr. in 3 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133503137,,,http://resolver.staatsbibliothek-berlin.de/SBB0000CFE500000000
+210,201,1790,1790,184,H. Zschokke,Graf Monaldeschi,Tr. in 5 A.,2,hist. Dr.,[K+L],–,http://www.wikidata.org/entity/Q135913089,,,https://books.google.com/books?id=Ff9jAAAAcAAJ&printsec=frontcover
+211,202,1790,1790,185,E. A. W. Rost,Alonso und Leonore,Tr. in 5 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q135912399,,,https://books.google.com/books?id=KDNJAAAAcAAJ&printsec=frontcover
+212,203,1790,1790,186,[Anonymus],Marschall Rubin und sein Sohn,Tr. in 3 A.,6i,Lsp/Ssp.,–,–,http://www.wikidata.org/entity/Q135912336,,,https://books.google.com/books?id=iagah_qeo0IC&printsec=frontcover
+213,204,1790/92,"[1790,1792]",188,C. Reiner,Sophie,Tr. in 5 A.,5i,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135914170,,,https://books.google.com/books?id=Srxvmiym_0MC&printsec=frontcover
+214,205,1790,1790,189,J. Fr. Schink,Die Leidenschaften,Tr. in 5 A.,1,hist. Dr.,–,–,http://www.wikidata.org/entity/Q133502981,,,http://resolver.staatsbibliothek-berlin.de/SBB000159AF00000000
+215,206,1790,1790,191,Chr. A. Vulpius,Serafina,Tr. in 5 A.,4,her. Tr.,(R),–,http://www.wikidata.org/entity/Q135913335,,,https://books.google.com/books?id=4Kw7AAAAcAAJ&printsec=frontcover
+216,207,1790,1790,–,Fr. Rosenberg,Ehrgeiz und Vorurtheil,bgl. Tr. in 5 H.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135913344,,,https://books.google.com/books?id=LIuMa5wFOoIC&printsec=frontcover
+217,208,1790/91,"[1790,1791]",–,L. Y. v. Buri,Die Stimme des Volkes,bgl. Tr. in 4 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135914194,,,https://books.google.com/books?id=YWsuAAAAYAAJ&printsec=frontcover
+218,209,1791,1791,192,[Anonymus],Ormenio und Klarisse,Tr. in 5 A.,1,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133503043,,,https://books.google.com/books?id=UJlHAAAAcAAJ&printsec=frontcover
+219,210,1791,1791,194,Fr. W. Ziegler,Eulalia Meinau,bgl. Tr. in 4 A.,1b',bgl. Tr.,Kotzebue,–,http://www.wikidata.org/entity/Q135087609,,,https://books.google.com/books?id=-BQT7hyXlDMC&printsec=frontcover
+220,211,1791,1791,195,Fr. W. Ziegler,Mathilde Gräfin von Gießbach,Tr. in 5 A.,1b',Rit. ssp.,–,–,http://www.wikidata.org/entity/Q135912317,,,https://books.google.com/books?id=fzasn1AIr3oC&printsec=frontcover
+221,212,1791,1791,196,[Anonymus],Ada von Draiwing,Tr. in 5 A.,2,Rit. ssp.,–,–,http://www.wikidata.org/entity/Q131804029,,,https://books.google.com/books?id=FrM4AQAAMAAJ&printsec=frontcover
+222,213,1791,1791,199,K. I. Geiger,Laster ist oft Tugend,Tr. in 3 A.,2,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q135909047,,,https://books.google.com/books?id=3suwyjnXPXYC&printsec=frontcover
+223,214,1791/92,"[1791,1792]",193,J. L. B.,Grimaldo und Laura,Tr. in 5 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135433249,,,https://books.google.com/books?id=N1dIAAAAcAAJ&printsec=frontcover
+224,215,1792,1792,197,Chr. A. Vulpius,Graf Benjowsky,Tr. in 5 A.,5,her. Tr.,–,–,http://www.wikidata.org/entity/Q133503011,,,https://books.google.com/books?id=SnUyAQAAMAAJ&printsec=frontcover
+225,216,1792,1792,198,K. F. Schelcher,Capello und Turii,Ssp. in 4 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133502996,,,https://books.google.com/books?id=vjVJAAAAcAAJ&printsec=frontcover
+226,?,1792,1792,200,J. G. Essich,Bianca Capello,Tr.,–,–,–,–,http://www.wikidata.org/entity/Q135433233,,,http://resolver.sub.uni-goettingen.de/purl?PPN68334143X
+227,217,1792,1792,201,F. A. v. Bromme,Cuenna und Vivonne,Tr. in 5 A.,5,hist. Dr.,(R),–,http://www.wikidata.org/entity/Q133503029,,,https://books.google.com/books?id=RayV1g1gcvcC&printsec=frontcover
+228,218,1792,1792,202,C. Frh. v. Reitzenstein,Graf Königsmark,Tr. in 5 A.,2,bgl. Tr.,"[E, K+L]",–,http://www.wikidata.org/entity/Q133374174,,,https://books.google.com/books?id=ojJhAAAAcAAJ&printsec=frontcover
+229,219,1792,1792,203,J. N. Komareck,Marie von Montalban,Tr. m. Chören in 5 A.,1,hist. Dr.,Plümicke,Theol.,http://www.wikidata.org/entity/Q133374066,,,https://books.google.com/books?id=skZ2K4wHSIEC&printsec=frontcover
+230,220,1793,1793,204,Fr. Leo,Der Generalmarsch,Tr. in 4 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133374150,,,https://books.google.com/books?id=sSKhoH4ca9QC&printsec=frontcover
+231,221,1793,1793,205,C. Frh. v. Reitzenstein,Die Negersklaven,Tr. in 5 A.,K2+1,her. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133374196,,https://dracor.org/id/ger000734,https://books.google.com/books?id=MDRJAAAAcAAJ&printsec=frontcover
+232,222,1793,1793,206,J. N. Komareck,Krok,Tr. in 3 A.,K1+5,hist. Dr.,–,Theol.,http://www.wikidata.org/entity/Q133503018,,,https://books.google.com/books?id=Xh9cY-MWnDAC&printsec=frontcover
+233,223,1793,1793,–,L. Y. v. Buri,Ludwig Capet,bgl. Tr. in 4 A.,4,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135087588,,,https://books.google.com/books?id=LaQbM0ClhsMC&printsec=frontcover
+234,224,1794,1794,–,A. Klein,Sieg der Tugend und d. Liebe,bgl. Ssp. in 4 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133383478,,,https://books.google.com/books?id=HYtDqr-tZ_kC&printsec=frontcover
+235,225,1794,1794,207,A. Fr. Schultze,Das Opfer d. Leidenschaft,Tr. in 3 A.,4,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q135084477,,,https://books.google.com/books?id=THZHAAAAcAAJ&printsec=frontcover
+236,226,1794,1794,208,H. Meyer,Hartmuth Hager,Tr. in 5 A.,[K1+5],Rit. ssp.,–,Theol.,http://www.wikidata.org/entity/Q133382324,,,https://books.google.com/books?id=ANF5ZduqzSsC&printsec=frontcover
+237,227,1794,1794,209,Chr. J. S. Contessa,Hedwig von Wolfsstein,Tr. in 3 A.,1,Rit. ssp.,–,Theol.,http://www.wikidata.org/entity/Q135084494,,,https://books.google.com/books?id=HEn4534TQeMC&printsec=frontcover
+238,228,1794,1794,210,F. A. v. Kotzebue,Graf Benjowski,Ssp. in 5 A.,6,her. Ssp.,–,–,http://www.wikidata.org/entity/Q1541382,,https://dracor.org/id/ger000488,https://books.google.com/books?id=b7UWzlymJ4AC&printsec=frontcover
+239,229,1795,1795,211,J. Fr. E. Albrecht,Wilhelmine Relast,Tr. in 5 A.,1a,bgl. Tr.,Lillo,–,http://www.wikidata.org/entity/Q122537760,,,https://books.google.com/books?id=p74O2pYsI18C&printsec=frontcover
+240,230,1795,1795,213,[Anonymus],Guido Jaffieri,Tr. in 5 A.,5,hist. Dr.,Otway,–,http://www.wikidata.org/entity/Q135084516,,,https://books.google.com/books?id=H6_y8zXCgNoC&printsec=frontcover
+241,231,1795,1795,214?,[Anonymus],Minna,Tr. in 5 A.,2,Rit. ssp.,–,–,http://www.wikidata.org/entity/Q133380676,,,https://books.google.com/books?id=BTNJAAAAcAAJ&printsec=frontcover
+242,232,1795/96,"[1795,1796]",215,[H. G. Schmieder?],Tugendopfer,Tr. in 5 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q133379568,,,http://resolver.staatsbibliothek-berlin.de/SBB000163B700000000
+243,233,1796,1796,216,A. W. Heidemann,Tugend und Laster,Tr. in 5 A.,1b',bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q135084531,,,https://books.google.com/books?id=HqJHAAAAcAAJ&printsec=frontcover
+244,234,1796,1796,217,[Anonymus],Pfaffengroll,Tr. in 5 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135012610,,,http://resolver.staatsbibliothek-berlin.de/SBB0000C18000000000
+245,235,1796,1796,218,[Anonymus],Kabale und Rache,Tr. in 5 A.,4,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135084552,,,http://resolver.staatsbibliothek-berlin.de/SBB0000E70D00000000
+246,?,1796,1796,219,Z.,Laura Mollise,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q131804402,,,https://books.google.com/books?id=CGy6gE7BJtwC&printsec=frontcover
+247,236,1797,1797,220,K. Fr. Kahlert,Maria von Schwaningen,Tr. in 5 A.,1,Rit. ssp.,–,Theol.,http://www.wikidata.org/entity/Q133503049,,,https://books.google.com/books?id=hcdIAAAAcAAJ&printsec=frontcover
+248,237,1797,1797,221,Chr. Fr. Nielsen,Klara von Synau,Tr. in 5 A.,2a,bgl. Tr.,(R),–,http://www.wikidata.org/entity/Q133503105,,,https://books.google.com/books?id=U4RHAAAAcAAJ&printsec=frontcover
+249,238,1797,1797,222,E. A. Fr. Klingemann,Die Maske,Tr. in 4 A.,1,hist. Dr.,–,–,http://www.wikidata.org/entity/Q133503122,,,http://resolver.staatsbibliothek-berlin.de/SBB0000B84300000000
+250,239,1797,1797,223,[Anonymus],Tiepolo,Tr. in 5 A.,5,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135084568,,,https://books.google.com/books?id=vctL04QL1isC&printsec=frontcover
+251,?,1797,1797,227,J. Fr. J. Bauer,Karl von Hochberg,Tr. in 4 A.,–,–,–,–,http://www.wikidata.org/entity/Q133378792,,,https://purl.uni-rostock.de/rosdok/ppn819847046
+252,?,1798,1798,225,[Anonymus],Der Abschied,Tr. in 2 A.,–,–,–,–,http://www.wikidata.org/entity/Q130350990,,https://dracor.org/id/ger000714,https://books.google.com/books?id=q0A7AAAAcAAJ&pg=PA273
+253,240,1798,1798,224,Körtingen,Anello,Tr. in 5 A.,2,Rit. ssp.,–,–,http://www.wikidata.org/entity/Q133375891,,,http://resolver.staatsbibliothek-berlin.de/SBB0000E30800000000
+254,241,1798,1798,226,K. Wallishauser,"Manuel, der falsche Freund",Tr. in 5 A.,1,hist. Dr.,–,–,http://www.wikidata.org/entity/Q130368504,,,https://books.google.com/books?id=3to9e70r3ogC&printsec=frontcover
 255,?,1798,1798,228,K. Wehrlich,Seltamiro,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q130368487,,
 256,?,1798,1798,229,S. Oehringen,Die unglückliche Vorstellung,Tr. in 3 H.,–,–,–,–,http://www.wikidata.org/entity/Q133377852,,
-257,242,1799,1799,–,A. W. Iffland,Das Gewissen,bgl. Tr. in 5 A.,1b',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133374450,,https://dracor.org/id/ger000732
+257,242,1799,1799,–,A. W. Iffland,Das Gewissen,bgl. Tr. in 5 A.,1b',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133374450,,https://dracor.org/id/ger000732,https://books.google.com/books?id=DzaAhbWVGJAC&printsec=frontcover
