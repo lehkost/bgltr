@@ -97,7 +97,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 96,093,1777,1777,076,J. M. R. Lenz,Der Engländer,Dram. Phantasie,5,bgl. Tr.,"[E, W]",Theol.,http://www.wikidata.org/entity/Q1193157,https://d-nb.info/gnd/4310175-6,https://dracor.org/id/ger000423,https://resolver.sub.uni-hamburg.de/kitodo/PPN1043585095
 97,094,1777,1777,077,J. Fr. Schink,Gianetta Montaldi,Tr. in 5 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q133310453,,,https://books.google.com/books?id=zTOwURVPlzkC&pg=PA117
 98,095,1777,1777,078,Engelbrecht/Förster,Caroline von Rothenburg,Tr. in 5 A.,1,bgl. Tr.,(R),–,http://www.wikidata.org/entity/Q135084338,,,https://books.google.com/books?id=W21VAAAAcAAJ&printsec=frontcover
-99,?,1777,1777,079,Chr. B. Schücking,[Königin] Elisabeth,,–,–,–,–,http://www.wikidata.org/entity/Q133310426,,
+99,?,1777,1777,079,Chr. B. Schücking,[Königin] Elisabeth,,–,–,–,–,http://www.wikidata.org/entity/Q133310426,,,
 100,096,1777/78,"[1777,1778]",081,Fr. K. A. v. Trützschler,Liebe und Tod,Tr. in 5 A.,4h,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q135084454,,,https://books.google.com/books?id=4xVaAAAAcAAJ&printsec=frontcover
 101,097,1777,1777,083,A. A. v. Crentzin,Der Hochzeitstag,Tr. in 5 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133454498,,,https://books.google.com/books?id=JxJYAAAAcAAJ&printsec=frontcover
 102,098,1777,1777,084,A. M. Sprickmann,Eulalia,Tr. in 5 A.,4h,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q133278512,https://d-nb.info/gnd/7787370-1,,https://books.google.com/books?id=02xVAAAAcAAJ&printsec=frontcover
@@ -115,8 +115,8 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 114,110,1778,1778,096,B. D. A. Cremeri,Amaliens Verlöbniß,Tr. in 2 A.,2,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135905244,,,https://resolver.sub.uni-hamburg.de/kitodo/PPN816683344
 115,111,1778,1778,097,J. A. Weiß,Rose Die Nonne wider ihren Willen,Tr. in 5 A.,2b,bgl. Tr.,[E],Theol.,http://www.wikidata.org/entity/Q125398385,,,https://books.google.com/books?id=c7Q7AAAAcAAJ&printsec=frontcover
 116,112,1778,1778,098,[Anonymus],Die verkannte Unschuld,Tr. in 5 A.,1a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133839155,,,https://books.google.com/books?id=w_FYAAAAcAAJ&printsec=frontcover
-117,?,1778,1778,099,A. P. Pollinger,Antonio del Bassiano,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q133289064,,
-118,113,1778,1778,–,[Anonymus],Jenny,bgl. Tr. in 5 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q135905228,,
+117,?,1778,1778,099,A. P. Pollinger,Antonio del Bassiano,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q133289064,,,
+118,113,1778,1778,–,[Anonymus],Jenny,bgl. Tr. in 5 A.,2,bgl. Tr.,[E],–,http://www.wikidata.org/entity/Q135905228,,,
 119,114,1779,1779,100,[Anonymus],Charlotte e. Opfer d. Aberglaubens,Tr. in 3 A.,4h,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q135902035,,,https://books.google.com/books?id=s0hNAYjNXLAC&printsec=frontcover
 120,115,1779,1779,101,J. A. Weiß,"Von Helm, Der Freygeist ein Heuchler",Tr. in 5 A.,1,bgl. Tr.,–,Theol.,http://www.wikidata.org/entity/Q133289075,,,https://books.google.com/books?id=xFalNmeHlNQC&printsec=frontcover
 121,116,1779,1779,102,S. G. Bürde,"Hochzeitstag, od. das Ärgste kommt zuletzt",Tr. in 5 A.,5,bgl. Tr.,[W],–,http://www.wikidata.org/entity/Q133826085,,,https://books.google.com/books?id=sPFYAAAAcAAJ&printsec=frontcover
@@ -253,6 +253,6 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 252,?,1798,1798,225,[Anonymus],Der Abschied,Tr. in 2 A.,–,–,–,–,http://www.wikidata.org/entity/Q130350990,,https://dracor.org/id/ger000714,https://books.google.com/books?id=q0A7AAAAcAAJ&pg=PA273
 253,240,1798,1798,224,Körtingen,Anello,Tr. in 5 A.,2,Rit. ssp.,–,–,http://www.wikidata.org/entity/Q133375891,,,http://resolver.staatsbibliothek-berlin.de/SBB0000E30800000000
 254,241,1798,1798,226,K. Wallishauser,"Manuel, der falsche Freund",Tr. in 5 A.,1,hist. Dr.,–,–,http://www.wikidata.org/entity/Q130368504,,,https://books.google.com/books?id=3to9e70r3ogC&printsec=frontcover
-255,?,1798,1798,228,K. Wehrlich,Seltamiro,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q130368487,,
-256,?,1798,1798,229,S. Oehringen,Die unglückliche Vorstellung,Tr. in 3 H.,–,–,–,–,http://www.wikidata.org/entity/Q133377852,,
+255,?,1798,1798,228,K. Wehrlich,Seltamiro,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q130368487,,,
+256,?,1798,1798,229,S. Oehringen,Die unglückliche Vorstellung,Tr. in 3 H.,–,–,–,–,http://www.wikidata.org/entity/Q133377852,,,
 257,242,1799,1799,–,A. W. Iffland,Das Gewissen,bgl. Tr. in 5 A.,1b',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133374450,,https://dracor.org/id/ger000732,https://books.google.com/books?id=DzaAhbWVGJAC&printsec=frontcover
