@@ -176,13 +176,13 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 175,169,1786,1786,160,H. Reinicke,Karl und Louise,Tr. in 5 A.,2b,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q135900422,,,,https://books.google.com/books?id=Lo_6lBbl4VUC&printsec=frontcover
 176,170,1785,1785,152,G. L. Hempel,Schwärmereyen d. Liebe u. d. Hasses,bgl. Tr. in 4 A.,2a,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133420397,,,,https://data.onb.ac.at/rep/10272835
 177,171,1785,1785,153,J. Fr. Knüppel,Thomas Morus,Tr. in 5 A.,4,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135084891,,,,https://books.google.com/books?id=QqFhAAAAcAAJ&printsec=frontcover
-178,172,1785,1785,–,A. G. Hartmann,Elise Hellfeld,bgl. Tr. in 3 A.,4,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135900448,,,,https://books.google.com/books?id=17BHAAAAcAAJ&printsec=frontcover
+178,172,1785,1785,–,A. G. Hartmann,Elise Hellfeld,bgl. Tr. in 3 A.,4,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135900448,https://www.goodreads.com/work/editions/140374839,,,https://books.google.com/books?id=17BHAAAAcAAJ&printsec=frontcover
 179,173,1786,1786,154,S. G. Presser,Die Folgen der Eifersucht,Tr. in 2 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135900494,,,,https://books.google.com/books?id=VDJJAAAAcAAJ&printsec=frontcover
 180,174,1786,1786,155,A. G. Hartmann,"Rosenwald, od. d. Folgen verkannter Liebe",Tr.,2a,bgl. Tr.,(R)[W],–,http://www.wikidata.org/entity/Q135900525,,,,https://books.google.com/books?id=o3FHAAAAcAAJ&printsec=frontcover
 181,175,1786,1786,156,F. G. Fruhwürth,Die Grafen Waldau,Tr. in 5 A.,1b',Rit. ssp.,–,–,http://www.wikidata.org/entity/Q135900581,,,,https://books.google.com/books?id=YFKKesKYTycC&printsec=frontcover
 182,176,1786,1786,157,C. Starke,Die traurige Hochzeitsfeier,Tr. in 3 A.,5i,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q135901030,,,,https://books.google.com/books?id=_sE6AAAAcAAJ&printsec=frontcover
 183,177,1786,1786,158,J. G. Dyk,Thomas Morus,Tr. in 5 A.,4,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135914225,,,,https://books.google.com/books?id=50eNyf7NOW4C&printsec=frontcover
-184,178,1787,1787,162,J. A. Waldvogel,Die falschen Banknoten,Tr. in 3 A.,1a,bgl. Tr.,[S],Päd.,http://www.wikidata.org/entity/Q132589577,,,https://dracor.org/id/ger000718,https://books.google.com/books?id=FvdHAAAAcAAJ&printsec=frontcover
+184,178,1787,1787,162,J. A. Waldvogel,Die falschen Banknoten,Tr. in 3 A.,1a,bgl. Tr.,[S],Päd.,http://www.wikidata.org/entity/Q132589577,https://www.goodreads.com/work/editions/103570899,,https://dracor.org/id/ger000718,https://books.google.com/books?id=FvdHAAAAcAAJ&printsec=frontcover
 185,179,1787,1787,163,W. A. v. Eding,Der Kornet,Tr. nach e. vaterländ. Sage in 5 A.,2,hist. Dr.,–,–,http://www.wikidata.org/entity/Q132710133,,,,https://books.google.com/books?id=RXhHAAAAcAAJ&printsec=frontcover
 186,180,1787,1787,164,E. Schikaneder,Der Grandprofos,Tr. in 4 A.,4,bgl. Tr.,–,Jus,http://www.wikidata.org/entity/Q133278570,https://www.goodreads.com/work/editions/165375806,https://d-nb.info/gnd/7680479-3,,https://books.google.com/books?id=RLM7AAAAcAAJ&printsec=frontcover
 187,181,1787,1787,165,J. N. Perchtold,Amalie von Kronbach,Tr. in 4 A.,1,bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133278638,,,,https://books.google.com/books?id=ZQpHUkqkSkAC&printsec=frontcover
@@ -203,7 +203,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 202,196,1789,1789,190,J. Chr. Brandes,"Rahel, od.: Die schöne Jüdin",Tr. in 3 A.,K1+5,hist. Dr.,–,–,http://www.wikidata.org/entity/Q135913636,,,,http://resolver.staatsbibliothek-berlin.de/SBB0000C1F100000000
 203,197,1789,1789,212,A. H. J. Lafontaine,Antonie od. d. Klostergelübde,Tr.,5,bgl. Tr.,Arnauld,Theol.,http://www.wikidata.org/entity/Q135914115,,,,https://books.google.com/books?id=AttJAAAAcAAJ&printsec=frontcover
 204,?,1790,1790,178,[Anonymus],"Nina, oder Liebe und Klosterzwang",Tr.,–,–,–,–,http://www.wikidata.org/entity/Q134082246,,,,https://wwwextern.ubn.ru.nl/BookReader/MMUBN000000_004984900/
-205,198,1790,1790,179,Wienbrack,Adolph und Minna oder d. Täuschung,Tr. in 5 A.,2,–,–,Jus,http://www.wikidata.org/entity/Q135913364,,,,https://books.google.com/books?id=7jFJAAAAcAAJ&printsec=frontcover
+205,198,1790,1790,179,Wienbrack,Adolph und Minna oder d. Täuschung,Tr. in 5 A.,2,–,–,Jus,http://www.wikidata.org/entity/Q135913364,https://www.goodreads.com/work/editions/103761469,,,https://books.google.com/books?id=7jFJAAAAcAAJ&printsec=frontcover
 206,?,1790,1790,180,F. Christel,Wolmar und Camille,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q135241494,,,,https://www.digitale-bibliothek-mv.de/viewer/image/PPN870166131/
 207,199,1790,1790,181,Chr. A. Vulpius,Leidenschaft und Liebe,Tr. in 5 A.,5,hist. Dr.,–,–,http://www.wikidata.org/entity/Q122529011,,,,https://books.google.com/books?id=qEk7AAAAcAAJ&printsec=frontcover
 208,?,1790,1790,182,J. J. Chr. Reck,Olivie Amenuti,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q126127534,,,,http://resolver.sub.uni-goettingen.de/purl?PPN730245462
@@ -252,7 +252,7 @@ ID,Nr. (Mönch),Jahr,Jahr (EDTF),Nr. (Schmid),Autor*in,Titel,Untertitel,Typus,Ga
 251,?,1797,1797,227,J. Fr. J. Bauer,Karl von Hochberg,Tr. in 4 A.,–,–,–,–,http://www.wikidata.org/entity/Q133378792,,,,https://purl.uni-rostock.de/rosdok/ppn819847046
 252,?,1798,1798,225,[Anonymus],Der Abschied,Tr. in 2 A.,–,–,–,–,http://www.wikidata.org/entity/Q130350990,https://www.goodreads.com/work/editions/50323387,,https://dracor.org/id/ger000714,https://books.google.com/books?id=q0A7AAAAcAAJ&pg=PA273
 253,240,1798,1798,224,Körtingen,Anello,Tr. in 5 A.,2,Rit. ssp.,–,–,http://www.wikidata.org/entity/Q133375891,,,,http://resolver.staatsbibliothek-berlin.de/SBB0000E30800000000
-254,241,1798,1798,226,K. Wallishauser,"Manuel, der falsche Freund",Tr. in 5 A.,1,hist. Dr.,–,–,http://www.wikidata.org/entity/Q130368504,,,,https://books.google.com/books?id=3to9e70r3ogC&printsec=frontcover
+254,241,1798,1798,226,K. Wallishauser,"Manuel, der falsche Freund",Tr. in 5 A.,1,hist. Dr.,–,–,http://www.wikidata.org/entity/Q130368504,https://www.goodreads.com/work/editions/68899186,,,https://books.google.com/books?id=3to9e70r3ogC&printsec=frontcover
 255,?,1798,1798,228,K. Wehrlich,Seltamiro,Tr. in 5 A.,–,–,–,–,http://www.wikidata.org/entity/Q130368487,,,,
 256,?,1798,1798,229,S. Oehringen,Die unglückliche Vorstellung,Tr. in 3 H.,–,–,–,–,http://www.wikidata.org/entity/Q133377852,,,,
 257,242,1799,1799,–,A. W. Iffland,Das Gewissen,bgl. Tr. in 5 A.,1b',bgl. Tr.,–,–,http://www.wikidata.org/entity/Q133374450,,,https://dracor.org/id/ger000732,https://books.google.com/books?id=DzaAhbWVGJAC&printsec=frontcover
